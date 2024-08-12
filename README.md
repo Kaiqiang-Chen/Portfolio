@@ -1,6 +1,6 @@
-Portfolio - Kaiqiang Chen
+# Portfolio - Kaiqiang Chen
 
-This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my Achievements, skills, and certificates. It is updated on the regular basis.
+This Portfolio is a compilation of all the projects I have done for academic, self-learning and hobby purposes, covering various fields incl. **Data Science & Data Analysis**, **Product Management** and **Coonsulting**. This portfolio also contains my Achievements, skills, and certificates. It is updated on the regular basis.
 
 - **Email**: [kaiqiang.chen@outlook.com](kaiqiang.chen@outlook.com)
 - **LinkedIn**: [www.linkedin.com/in/kenneth-kaiqiang-chen](https://www.linkedin.com/in/kenneth-kaiqiang-chen)
@@ -47,7 +47,7 @@ A hybrid-filtering personalized news articles recommendation system which can su
 In this project I have used models such as RNN, LSTM, 1D-CNN to predict the engine failure 50 cycles ahead of its time, and calculated feature importance from them using sensitivity analysis and shap values. Exponential degradation and similarity-based models are also used to calculate its remaining life.
 
 
-## Product Design & Construction
+## Product Management
 
 <img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/960x0.jpg"> **[Wind Turbine Power Curve Estimation](https://github.com/archd3sai/Wind-Turbine-Power-Curve-Estimation)**
 
