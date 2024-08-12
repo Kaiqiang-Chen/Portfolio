@@ -39,6 +39,7 @@ The objective of this project is to analyze the 3 million grocery orders from mo
 
 A hybrid-filtering personalized news articles recommendation system which can suggest articles from popular news service providers based on reading history of twitter users who share similar interests (Collaborative filtering) and content similarity of the article and user’s tweets (Content-based filtering).
 
+<br />
 
 ### 5. Other Capstone Projects
 
@@ -47,6 +48,7 @@ A hybrid-filtering personalized news articles recommendation system which can su
 In this project I have used models such as RNN, LSTM, 1D-CNN to predict the engine failure 50 cycles ahead of its time, and calculated feature importance from them using sensitivity analysis and shap values. Exponential degradation and similarity-based models are also used to calculate its remaining life.
 
 <br />
+
 ## Product Management
 
 <img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/960x0.jpg"> **[Wind Turbine Power Curve Estimation](https://github.com/archd3sai/Wind-Turbine-Power-Curve-Estimation)**
