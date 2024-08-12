@@ -1,0 +1,20 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+# 忽略 .idea 目录  
+.idea/  
+  
+# 忽略所有名为 _pycache_ 的目录  
+__pycache__/
+node_modules
+
+package-lock.json
+package.json
+
+package-lock.json
+package.json
