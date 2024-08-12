@@ -15,8 +15,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 ## Projects
 
-![img](https://github.com/Kaiqiang-Chen/Portfolio/blob/9eb78beb7071862dac7ee6bc2fd1dd9a5d927fab/images/Superstore.jpg)
-<img align="left" width="250" height="150" src="https://github.com/Kaiqiang-Chen/Portfolio/blob/9eb78beb7071862dac7ee6bc2fd1dd9a5d927fab/images/Superstore.jpg"> **[Superstore Sales Performance Dashboard](https://public.tableau.com/views/SalesPerformanceDashboard_17224722585070/sheet0?:language=zh-CN&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link "Lick to open the dashboard website")**
+<img align="left" width="250" height="150" src="[https://github.com/Kaiqiang-Chen/Portfolio/blob/9eb78beb7071862dac7ee6bc2fd1dd9a5d927fab/images/Superstore.jpg](https://ck-obsidian.oss-cn-hangzhou.aliyuncs.com/20240801093529.png)"> **[Superstore Sales Performance Dashboard](https://public.tableau.com/views/SalesPerformanceDashboard_17224722585070/sheet0?:language=zh-CN&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link "Lick to open the dashboard website")**
 
 In this project I have used survival analysis to study how the likelihood of the customer churn changes over time. I have also implementd a Random Forest model to predict the customer churn and deployed a model using flask webapp on Heroku. [App](https://churn-prediction-app.herokuapp.com/)
 Segmentation and affinity analysis are also done to study user purchase patterns.
