@@ -31,7 +31,7 @@ Segmentation and affinity analysis are also done to study user purchase patterns
 
 ### 3. Machine Learning
 
-<img align="left" width="250" height="150" src="https://ck-obsidian.oss-cn-hangzhou.aliyuncs.com/20240812164456.png"> **[Kaggle | House Prices - Advanced Regression Techniques](https://github.com/archd3sai/Instacart-Market-Basket-Analysis)**
+<img align="left" width="250" height="150" src="https://ck-obsidian.oss-cn-hangzhou.aliyuncs.com/20240812164456.png"> **[Kaggle | House Prices - Advanced Regression Techniques](https://github.com/Kaiqiang-Chen/Portfolio/blob/878769faa1fef4dae7661c2e0ee516bfa9f0ebd7/Data%20Science%20%26%20Data%20Analysis/Dashboard%20Building%20with%20Tableau/Readme_Dashboard.md)**
 
 The objective of this project is to analyze the 3 million grocery orders from more than 200,000 Instacart users and predict which previously purchased item will be in user's next order. Customer segmentation and affinity analysis are also done to study user purchase patterns.
 
