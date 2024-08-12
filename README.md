@@ -18,6 +18,8 @@ This Portfolio is a compilation of all the projects I have done for academic, se
 ### 1. Data Manipulation and EDA
 **[Superstore Sales Performance Dashboard](https://public.tableau.com/views/SalesPerformanceDashboard_17224722585070/sheet0?:language=zh-CN&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link "Lick to open the dashboard website")**
 
+<br />
+
 ### 2. Dashboard Building with Tableau
 
 <img align="left" width="250" height="150" src="https://ck-obsidian.oss-cn-hangzhou.aliyuncs.com/Superstore.jpg"> **[Superstore Sales Performance Dashboard](https://public.tableau.com/views/SalesPerformanceDashboard_17224722585070/sheet0?:language=zh-CN&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link "Lick to open the dashboard website")**
@@ -25,6 +27,7 @@ This Portfolio is a compilation of all the projects I have done for academic, se
 In this project I have used survival analysis to study how the likelihood of the customer churn changes over time. I have also implementd a Random Forest model to predict the customer churn and deployed a model using flask webapp on Heroku. [App](https://churn-prediction-app.herokuapp.com/)
 Segmentation and affinity analysis are also done to study user purchase patterns.
 
+<br />
 
 ### 3. Machine Learning
 
@@ -32,6 +35,7 @@ Segmentation and affinity analysis are also done to study user purchase patterns
 
 The objective of this project is to analyze the 3 million grocery orders from more than 200,000 Instacart users and predict which previously purchased item will be in user's next order. Customer segmentation and affinity analysis are also done to study user purchase patterns.
 
+<br />
 
 ### 4. Causal Inference and A/B Test
 
@@ -59,8 +63,11 @@ In this project, I have employed regression techniques to estimate the Power cur
 
 Objective of this project is to identify the in-control data points and eliminate out of control data points to set up distribution parameters for manufacturing process monitoring. I utilized PCA for dimension reduction and Hotelling T2 and m-CUSUM control charts to established mean and variance matrices.
 
+<br />
 
 ## Consulting Reports
+
+### 1. 5-Year Growth Strategy for Banbao
 
 <img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/gdp.jpg"> **[What&#39;s the GDP of India?](https://github.com/archd3sai/Predicting-GDP-of-India)**
 
@@ -72,6 +79,19 @@ In this project I applied various classification models such as Logistic Regress
 
 <br />
 
+### 1. 5-Year Growth Strategy for Banbao (2023 Oliver Wayman Impact Case Competition | Team OWesome)
+
+<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/gdp.jpg"> **[What&#39;s the GDP of India?](https://github.com/archd3sai/Predicting-GDP-of-India)**
+
+Objective of this project is to perform predictive assesment on the GDP of India through an inferential analysis of various socio-economic factors. Various models are compared and Stepwise Regression model is implemented which resulted in 5.7% Test MSE.
+
+<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/loan.jpg"> **[Loan Default Prediction](https://github.com/archd3sai/Loan-Default-Prediction)**
+
+<br />
+
+### 2. Carbon neutralization strategy for TNC in Dairy Industry (2023 Bain Case Competition | Team XiaoBaoBain)
+In this project I applied various classification models such as Logistic Regression, Random Forest and LightGBM to detect consumers who will default the loan. SMOTE is used to combat class imbalance and LightGBM is implemented that resulted into the highest accuracy 98.89% and 0.99 F1 Score.
+
 ## Micro Projects
 
 - ### Statistics and Machine Learning
@@ -81,6 +101,7 @@ In this project I applied various classification models such as Logistic Regress
   - [Gaussian Mixture Model and Expectation Maximization](https://github.com/archd3sai/Statistical-Methods/blob/master/GMM-EM.ipynb): In this file, I implemented Expectation Maximization algorithm to find out true distribution of one dimensional GMM of 2 gaussians.
   - [Linear Regression](https://github.com/archd3sai/Statistical-Methods/blob/master/Linear%20Regression.ipynb): In this file, I aim to solve linear regression using analytical method and also by implementing gradient descent, stochastic gradient descent and minibatch gradient descent algorithms.
   - [Neural Network Implementation](https://github.com/archd3sai/Statistical-Methods/blob/master/NN%20Implementation.ipynb): In this file, I implemented simple neural network using forward propogation, backword propogation and optimization functions to predict the customer churn.
+    
 - ### Challenges
 
   - [SQL Challenges](https://github.com/archd3sai/SQL): This repository contains codes of online SQL challenges (From Hackerrank, Leetcode, Testdome, etc.) solved by me.
