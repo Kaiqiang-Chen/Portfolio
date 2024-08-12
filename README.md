@@ -31,7 +31,7 @@ Segmentation and affinity analysis are also done to study user purchase patterns
 
 ### 3. Machine Learning
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/instacart.jpeg"> **[Instacart Market Basket Analysis](https://github.com/archd3sai/Instacart-Market-Basket-Analysis)**
+<img align="left" width="250" height="150" src="!https://ck-obsidian.oss-cn-hangzhou.aliyuncs.com/20240812164456.png"> **[Kaggle |  House Prices - Advanced Regression Techniques](https://github.com/archd3sai/Instacart-Market-Basket-Analysis)**
 
 The objective of this project is to analyze the 3 million grocery orders from more than 200,000 Instacart users and predict which previously purchased item will be in user's next order. Customer segmentation and affinity analysis are also done to study user purchase patterns.
 
@@ -39,7 +39,7 @@ The objective of this project is to analyze the 3 million grocery orders from mo
 
 ### 4. Causal Inference and A/B Test
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/1_cEaeMuTvINqIgyYQMSJWUA.jpeg"> **[Hybrid-filtering News Articles Recommendation Engine](https://github.com/archd3sai/News-Articles-Recommendation)**
+<img align="left" width="250" height="150" src="![](https://ck-obsidian.oss-cn-hangzhou.aliyuncs.com/20240812164954.png)"> **[Interactive Ads and User Conversion Rates: An A/B Test](https://github.com/archd3sai/News-Articles-Recommendation)**
 
 A hybrid-filtering personalized news articles recommendation system which can suggest articles from popular news service providers based on reading history of twitter users who share similar interests (Collaborative filtering) and content similarity of the article and user’s tweets (Content-based filtering).
 
@@ -47,7 +47,7 @@ A hybrid-filtering personalized news articles recommendation system which can su
 
 ### 5. Data Modeling
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/1_cEaeMuTvINqIgyYQMSJWUA.jpeg"> **[Hybrid-filtering News Articles Recommendation Engine](https://github.com/archd3sai/News-Articles-Recommendation)**
+<img align="left" width="250" height="150" src="!https://ck-obsidian.oss-cn-hangzhou.aliyuncs.com/20240812164338.png"> **[Hybrid-filtering News Articles Recommendation Engine](https://github.com/archd3sai/News-Articles-Recommendation)**
 
 A hybrid-filtering personalized news articles recommendation system which can suggest articles from popular news service providers based on reading history of twitter users who share similar interests (Collaborative filtering) and content similarity of the article and user’s tweets (Content-based filtering).
 
@@ -74,13 +74,16 @@ In this project, I have employed regression techniques to estimate the Power cur
 
 ### 1. Five-Year Growth Strategy for Banbao (2023 Oliver Wayman Impact Case Competition | Team OWesome)
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/gdp.jpg"> **[What&#39;s the GDP of India?](https://github.com/archd3sai/Predicting-GDP-of-India)**
+<img align="left" width="250" height="150" src="!https://ck-obsidian.oss-cn-hangzhou.aliyuncs.com/20240812165158.png"> **[Five-Year Growth Strategy for Banbao](https://github.com/archd3sai/Predicting-GDP-of-India)**
 
 Objective of this project is to perform predictive assesment on the GDP of India through an inferential analysis of various socio-economic factors. Various models are compared and Stepwise Regression model is implemented which resulted in 5.7% Test MSE.
 
 <br />
 
 ### 2. Carbon neutralization strategy for TNC in Dairy Industry (2023 Bain Case Competition | Team XiaoBaoBain)
+
+<img align="left" width="250" height="150" src="https://ck-obsidian.oss-cn-hangzhou.aliyuncs.com/20240812165054.png"> **[Carbon neutralization strategy for TNC in Dairy Industry](https://github.com/archd3sai/Predicting-GDP-of-India)**
+
 In this project I applied various classification models such as Logistic Regression, Random Forest and LightGBM to detect consumers who will default the loan. SMOTE is used to combat class imbalance and LightGBM is implemented that resulted into the highest accuracy 98.89% and 0.99 F1 Score.
 
 <br />
