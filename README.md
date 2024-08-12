@@ -15,7 +15,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 ## Projects
 
-`<img align="left" width="250" height="150" src="https://cdn.jsdelivr.net/gh/Kaiqiang-Chen/images@main/1723446185085.jpg">` **[Superstore Sales Performance Dashboard](https://public.tableau.com/views/SalesPerformanceDashboard_17224722585070/sheet0?:language=zh-CN&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link "Lick to open the dashboard website")**
+`<img align="left" width="250" height="150" src="https://raw.githubusercontent.com/Kaiqiang-Chen/images/main/1723448665294.jpg">` **[Superstore Sales Performance Dashboard](https://public.tableau.com/views/SalesPerformanceDashboard_17224722585070/sheet0?:language=zh-CN&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link "Lick to open the dashboard website")**
 
 In this project I have used survival analysis to study how the likelihood of the customer churn changes over time. I have also implementd a Random Forest model to predict the customer churn and deployed a model using flask webapp on Heroku. [App](https://churn-prediction-app.herokuapp.com/)
 Segmentation and affinity analysis are also done to study user purchase patterns.
