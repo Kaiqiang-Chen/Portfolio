@@ -16,7 +16,7 @@ This Portfolio is a compilation of all the projects I have done for academic, se
 ## Data Science Projects
 
 ### Data Manipulation and EDA
-[Superstore Sales Performance Dashboard](https://public.tableau.com/views/SalesPerformanceDashboard_17224722585070/sheet0?:language=zh-CN&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link "Lick to open the dashboard website")**
+**[Superstore Sales Performance Dashboard](https://public.tableau.com/views/SalesPerformanceDashboard_17224722585070/sheet0?:language=zh-CN&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link "Lick to open the dashboard website")**
 
 ### Dashboard Building with Tableau
 
