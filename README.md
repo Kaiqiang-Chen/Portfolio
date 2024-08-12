@@ -47,7 +47,7 @@ A hybrid-filtering personalized news articles recommendation system which can su
 
 ### 5. Data Modeling
 
-<img align="left" width="250" height="150" src="https://ck-obsidian.oss-cn-hangzhou.aliyuncs.com/20240812164338.png"> **[Weather the Storm: Mastering Insurance & Site Selection)**
+<img align="left" width="250" height="150" src="https://ck-obsidian.oss-cn-hangzhou.aliyuncs.com/20240812164338.png"> **[Weather the Storm: Mastering Insurance & Site Selection](https://github.com/archd3sai/News-Articles-Recommendation)**
 
 A hybrid-filtering personalized news articles recommendation system which can suggest articles from popular news service providers based on reading history of twitter users who share similar interests (Collaborative filtering) and content similarity of the article and user’s tweets (Content-based filtering).
 
