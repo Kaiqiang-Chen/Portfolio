@@ -79,7 +79,7 @@ In this project I applied various classification models such as Logistic Regress
 
 <br />
 
-### 1. 5-Year Growth Strategy for Banbao (2023 Oliver Wayman Impact Case Competition | Team OWesome)
+### 1. Five-Year Growth Strategy for Banbao (2023 Oliver Wayman Impact Case Competition | Team OWesome)
 
 <img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/gdp.jpg"> **[What&#39;s the GDP of India?](https://github.com/archd3sai/Predicting-GDP-of-India)**
 
@@ -91,6 +91,8 @@ Objective of this project is to perform predictive assesment on the GDP of India
 
 ### 2. Carbon neutralization strategy for TNC in Dairy Industry (2023 Bain Case Competition | Team XiaoBaoBain)
 In this project I applied various classification models such as Logistic Regression, Random Forest and LightGBM to detect consumers who will default the loan. SMOTE is used to combat class imbalance and LightGBM is implemented that resulted into the highest accuracy 98.89% and 0.99 F1 Score.
+
+<br />
 
 ## Micro Projects
 
