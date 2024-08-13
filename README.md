@@ -66,7 +66,7 @@ A hybrid-filtering personalized news articles recommendation system which can su
 
 <img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/960x0.jpg"> **[PropriskAI - One-Stop Real Estate Risk Informa Service](https://github.com/archd3sai/Wind-Turbine-Power-Curve-Estimation)**
 
-近期某些房地产公司发生债券违约事件，爆发了流动性危机，上游供应商的应收账款也会面临账期延长，但是风险信息的分散和难以获得可能极大影响下游供应商和投资者的风险决策。我们利用AI数据挖掘以及随机森林、XGBoost和神经网络等机器学习算法，解决信息分散、非结构化的问题，自主构建数据集并提出客观评估房地产企业流动性危机影响范围和规模的模型和方法，搭建了一站式房地产风险全视域AI——PropriskAI。
+近期某些房地产公司发生债券违约事件，流动性危机频发，上游供应商的应收账款也会面临账期延长，但关于房地产的风险信息的分散、难以获得，极大影响上游供应商和投资者的风险决策。我们利用AI数据挖掘以及随机森林、XGBoost和神经网络等机器学习算法，解决信息分散、非结构化等痛点，自主构建数据集并提出客观评估房地产企业流动性危机影响范围和规模的模型和方法，搭建了一站式房地产风险全视域AI——PropriskAI。
 
 <br />
 
