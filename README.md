@@ -93,7 +93,7 @@ A hybrid-filtering personalized news articles recommendation system which can su
 
 - ### 智能优化算法（元启发式算法） Metaheuristic Algorithms
 
-  - [关于多旅行上问题(MTSP)的启发式算法研究](https://github.com/archd3sai/Statistical-Methods/blob/master/genetic-algorithm.ipynb) : to be updated.
+  - [关于多旅行商问题(MTSP)的启发式算法研究](https://github.com/archd3sai/Statistical-Methods/blob/master/genetic-algorithm.ipynb) : to be updated.
   
 - ### 运筹学 Operations Research
 
