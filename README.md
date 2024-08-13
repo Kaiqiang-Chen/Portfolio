@@ -34,7 +34,10 @@ Segmentation and affinity analysis are also done to study user purchase patterns
 
 `![test2]("https://raw.githubusercontent.com/Kaiqiang-Chen/images/main/1723448665294.jpg") ` **[Kaggle | House Prices - Advanced Regression Techniques](https://github.com/Kaiqiang-Chen/Portfolio/blob/878769faa1fef4dae7661c2e0ee516bfa9f0ebd7/Data%20Science%20%26%20Data%20Analysis/Dashboard%20Building%20with%20Tableau/Readme_Dashboard.md)**
 
-The objective of this project is to analyze the 3 million grocery orders from more than 200,000 Instacart users and predict which previously purchased item will be in user's next order. Customer segmentation and affinity analysis are also done to study user purchase patterns.
+【概述】利用房屋面积、房间数量、车库容量等共81个变量，1400+训练集样本对Ames, Iowa的房屋价格进行预测，包括缺失值处理、特征工程、机器学习及集成。
+
+* **特征工程：** 对缺失值和异常值进行处理；调整目标变量偏态分布；利用seaborn绘制热力图，挖掘变量相关性以及与目标函数高度相关的特征；利用LabelEncoder和one-hot编码将部分类别型特征转化为数值型特征；利用Box-Cox处理高偏态数值型特征。
+* **机器学习：** 调用XGboost、KNN、SVM等8种模型预测并进行Bagging、Stacking集成，最终RMSE 0.1183，排名 **Top 2%** 。
 
 <br />
 
@@ -48,9 +51,11 @@ A hybrid-filtering personalized news articles recommendation system which can su
 
 ### 5. Data Modeling
 
-`<img align="left" width="250" height="150" src="https://ck-obsidian.oss-cn-hangzhou.aliyuncs.com/20240812164338.png">` **[Weather the Storm: Mastering Insurance &amp; Site Selection](https://github.com/archd3sai/News-Articles-Recommendation)**
+``<img align="left" width="250" height="150" src="https://ck-obsidian.oss-cn-hangzhou.aliyuncs.com/20240812164338.png">```  **[Weather the Storm: Mastering Insurance &amp; Site Selection](https://github.com/archd3sai/News-Articles-Recommendation)**
 
-A hybrid-filtering personalized news articles recommendation system which can suggest articles from popular news service providers based on reading history of twitter users who share similar interests (Collaborative filtering) and content similarity of the article and user’s tweets (Content-based filtering).
+* 运用ARIMA模型预测极端天气发生概率，构建EWM-TOPSIS和AHP-FCE模型进行保险承保风险评估，有效降低承保风险。
+* 通过Python或R实施ARIMA时间序列分析，并使用多种图表可视化展示极端天气预测结果及风险评估成果，提升决策透明度。
+* 运用风险评估及项目成本收益分析，支持保险承保决策，助力优化资源配置并提高投资回报率。
 
 <br />
 
