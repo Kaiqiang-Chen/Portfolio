@@ -23,18 +23,17 @@ This Portfolio is a compilation of all the projects I have done for academic, se
 
 ### 2. Dashboard Building with Tableau
 
-![test]("https://ck-obsidian.oss-cn-hangzhou.aliyuncs.com/Superstore.jpg") **[Superstore Sales Performance Dashboard](https://public.tableau.com/views/SalesPerformanceDashboard_17224722585070/sheet0?:language=zh-CN&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link "Lick to open the dashboard website")**
+<img align="left" width="250" height="150" src="https://ck-obsidian.oss-cn-hangzhou.aliyuncs.com/20240801093529.png"> **[Superstore Sales Performance Dashboard](https://public.tableau.com/views/SalesPerformanceDashboard_17224722585070/sheet0?:language=zh-CN&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link "Lick to open the dashboard website")**
 
-In this project I have used survival analysis to study how the likelihood of the customer churn changes over time. I have also implementd a Random Forest model to predict the customer churn and deployed a model using flask webapp on Heroku. [App](https://churn-prediction-app.herokuapp.com/)
-Segmentation and affinity analysis are also done to study user purchase patterns.
+
 
 <br />
 
 ### 3. Machine Learning
 
-<img align="left" width="250" height="150" src="!https://ck-obsidian.oss-cn-hangzhou.aliyuncs.com/20240812164456.png"> **[Kaggle | House Prices - Advanced Regression Techniques](https://github.com/Kaiqiang-Chen/Portfolio/blob/878769faa1fef4dae7661c2e0ee516bfa9f0ebd7/Data%20Science%20%26%20Data%20Analysis/Dashboard%20Building%20with%20Tableau/Readme_Dashboard.md)**
+<img align="left" width="250" height="150" src="https://ck-obsidian.oss-cn-hangzhou.aliyuncs.com/20240812164456.png"> **[Kaggle | House Prices - Advanced Regression Techniques](https://github.com/Kaiqiang-Chen/Portfolio/blob/878769faa1fef4dae7661c2e0ee516bfa9f0ebd7/Data%20Science%20%26%20Data%20Analysis/Dashboard%20Building%20with%20Tableau/Readme_Dashboard.md)**
 
-利用房屋面积、房间数量、车库容量等共81个变量，1400+训练集样本对Ames, Iowa的房屋价格进行预测，包括缺失值处理、特征工程、机器学习及集成。
+数据集来自Kaggle。利用房屋面积、房间数量、车库容量等共81个变量，1400+训练集样本对Ames, Iowa的房屋价格进行预测，最小化RMSE。特征工程方面，对缺失值和异常值进行处理；调整目标变量偏态分布；利用seaborn绘制热力图，挖掘变量相关性以及与目标函数高度相关的特征；利用LabelEncoder和one-hot编码将部分类别型特征转化为数值型特征；利用Box-Cox处理高偏态数值型特征。机器学习方面，调用XGboost、KNN、SVM等8种模型预测并进行Bagging、Stacking集成，最终RMSE 0.1183，在Kaggle排名榜中可以进入Top 2%。
 
 <br />
 
@@ -57,15 +56,15 @@ A hybrid-filtering personalized news articles recommendation system which can su
 
 ### 6. Other Capstone Projects
 
-`<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/airplane.jpeg">` **[Predictive Maintenance of Aircraft Engine](https://github.com/archd3sai/Predictive-Maintenance-of-Aircraft-Engine)**
+<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/airplane.jpeg"> **[PSM-DID政策效应研究论文复刻](https://github.com/archd3sai/Predictive-Maintenance-of-Aircraft-Engine)**
 
-In this project I have used models such as RNN, LSTM, 1D-CNN to predict the engine failure 50 cycles ahead of its time, and calculated feature importance from them using sensitivity analysis and shap values. Exponential degradation and similarity-based models are also used to calculate its remaining life.
+复刻了一篇关于全球变暖背景下中国碳市场碳减排效应的研究，基于市场机制与行政干预的协同作用视角，利用PSM-DID方法，检验了试点地区碳市场促进碳减排的理论机理与政策效果，包括平行趋势检验、安慰剂检验、PSM半径匹配/近邻匹配/核匹配/剔除其他政策以及特殊样本影响的稳健性分析，以及碳价、市场流动性和相对市场交易规模三个机制变量的传导机制分析。
 
 <br />
 
 ## III. Product Management
 
-`<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/960x0.jpg">` **[PropriskAI - One-Stop Real Estate Risk Informa Service](https://github.com/archd3sai/Wind-Turbine-Power-Curve-Estimation)**
+<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/960x0.jpg"> **[PropriskAI - One-Stop Real Estate Risk Informa Service](https://github.com/archd3sai/Wind-Turbine-Power-Curve-Estimation)**
 
 近期某些房地产公司发生债券违约事件，爆发了流动性危机，上游供应商的应收账款也会面临账期延长，但是风险信息的分散和难以获得可能极大影响下游供应商和投资者的风险决策。我们利用AI数据挖掘以及随机森林、XGBoost和神经网络等机器学习算法，解决信息分散、非结构化的问题，自主构建数据集并提出客观评估房地产企业流动性危机影响范围和规模的模型和方法，搭建了一站式房地产风险全视域AI——PropriskAI。
 
@@ -75,33 +74,31 @@ In this project I have used models such as RNN, LSTM, 1D-CNN to predict the engi
 
 ### 1. Five-Year Growth Strategy for Banbao (2023 Oliver Wyman Impact Case Competition | Team OWesome)
 
-`<img align="left" width="250" height="150" src="https://ck-obsidian.oss-cn-hangzhou.aliyuncs.com/20240812165158.png">` **[Five-Year Growth Strategy for Banbao](https://github.com/archd3sai/Predicting-GDP-of-India)**
+<img align="left" width="250" height="150" src="https://ck-obsidian.oss-cn-hangzhou.aliyuncs.com/20240812165158.png"> **[Five-Year Growth Strategy for Banbao](https://github.com/archd3sai/Predicting-GDP-of-India)**
 
-【概述】赛题要求为中国积木玩具行业的领先企业制定增长战略。该企业在拥有20年运营经验的基础上，面临来自全球巨头和本地新兴竞争者的激烈竞争，计划在五年内将收入翻倍。赛题涉及市场动态分析、竞争格局研究、品类多元化、渠道更新以及品牌定位策略的制定，旨在帮助企业抓住新兴品类与电商渠道的增长机会。
+赛题要求为中国积木玩具行业的领先企业制定增长战略。该企业在拥有20年运营经验的基础上，面临来自全球巨头和本地新兴竞争者的激烈竞争，计划在五年内将收入翻倍。我们选取邦宝积木作为客户公司。对积木玩具行业和龙头进行全方位的研究和对标分析，得出行业规模增速及驱动力、竞争格局、KSFs 和发展趋势；通过问卷调查 (N=389) 获得一手消费者数据，提炼不同人群消费者画像和KPCs，聚类目前主要客群和潜在目标客群；最终进行战略设计，对标头部品牌制定全渠道战略和门店选址方案，结合案例研究设计新产品和爆款营销策略，并提出新渠道市场推广策略等。
+
 
 <br />
 
 ### 2. Carbon neutralization strategy for TNC in Dairy Industry (2023 Bain Case Competition | Team XiaoBaoBain)
 
-`<img align="left" width="250" height="150" src="https://ck-obsidian.oss-cn-hangzhou.aliyuncs.com/20240812165054.png">` **[Carbon neutralization strategy for TNC in Dairy Industry](https://github.com/archd3sai/Predicting-GDP-of-India)**
+<img align="left" width="250" height="150" src="https://ck-obsidian.oss-cn-hangzhou.aliyuncs.com/20240812165054.png"> **[Carbon neutralization strategy for TNC in Dairy Industry](https://github.com/archd3sai/Predicting-GDP-of-India)**
 
-In this project I applied various classification models such as Logistic Regression, Random Forest and LightGBM to detect consumers who will default the loan. SMOTE is used to combat class imbalance and LightGBM is implemented that resulted into the highest accuracy 98.89% and 0.99 F1 Score.
+赛题为为中国畜牧业制定碳中和战略。畜牧业涉及牛、家禽、猪、羊和水产等养殖，面临甲烷排放等碳中和挑战。根据巴黎协议，碳中和共识逐渐形成，但仍存在显著难题。环保非营利组织的首席战略官提出，希望通过试点推进可持续畜牧业实践，借鉴发达国家的减排措施，并探讨非营利组织在其中的作用。我们回答了关于选择关注的畜牧业子行业、碳中和痛点、优先试点的农场类型及关键减排措施等核心问题，并以充足的案头研究和数据分析和基础，为TNC这家非盈利组织提供建议。
 
 <br />
 
 ## V. Exploration in Other Fields
 
-- ### Metaheuristic Algorithms
+- ### 智能优化算法（元启发式算法） Metaheuristic Algorithms
 
-  - [Genetic Algorithm](https://github.com/archd3sai/Statistical-Methods/blob/master/genetic-algorithm.ipynb) : In this file, I have implemented simple genetic algorithm that finds out the list of numbers which equal to any specified number when summed together.
-- ### Operations Research
+  - [关于多旅行上问题(MTSP)的启发式算法研究](https://github.com/archd3sai/Statistical-Methods/blob/master/genetic-algorithm.ipynb) : to be updated.
+  
+- ### 运筹学 Operations Research
 
-  - [SQL Challenges](https://github.com/archd3sai/SQL): This repository contains codes of online SQL challenges (From Hackerrank, Leetcode, Testdome, etc.) solved by me.
-  - [Data Science Challenges](https://github.com/archd3sai/DS-Challenges): This repository contains codes of online Data Science challenges (From Hackerrank, TestDome, etc.) solved by me.
-- ### Bayesian Statistic
+  - [波次问题的建模和解决](https://github.com/archd3sai/SQL): to be updated.
 
-  - [Ranking of NFL teams using Markov-chain methods](https://github.com/archd3sai/Ranking-of-NFL-Teams-using-Markov-method/blob/master/Ranking%20of%20NFL%20teams%20Report.pdf) : In this project I implemented and compared three stationary distribution of Markov-chain based approaches to rank 32 NFL (National Football League) teams from "Best" to "Worst" using the scores of 2007 NFL regular season.
-  - [Ranking of Tennis players](https://github.com/archd3sai/Tennis-Players-Ranking/blob/master/TennisRanking.ipynb) : Objective of this project is to rank all Tennis Players based on the matches they played in the year of 2018. This project comprises 4 approaches to rank Tennis players and I have tried to make these approaches more robust sequentially.
 
 ## VI. Core Competencies
 
