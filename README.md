@@ -25,15 +25,13 @@ This Portfolio is a compilation of all the projects I have done for academic, se
 
 <img align="left" width="250" height="150" src="https://ck-obsidian.oss-cn-hangzhou.aliyuncs.com/20240801093529.png"> **[Superstore Sales Performance Dashboard](https://public.tableau.com/views/SalesPerformanceDashboard_17224722585070/sheet0?:language=zh-CN&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link "Lick to open the dashboard website")**
 
-
-
 <br />
 
 ### 3. Machine Learning
 
 <img align="left" width="250" height="150" src="https://ck-obsidian.oss-cn-hangzhou.aliyuncs.com/20240812164456.png"> **[Kaggle | House Prices - Advanced Regression Techniques](https://github.com/Kaiqiang-Chen/Portfolio/blob/878769faa1fef4dae7661c2e0ee516bfa9f0ebd7/Data%20Science%20%26%20Data%20Analysis/Dashboard%20Building%20with%20Tableau/Readme_Dashboard.md)**
 
-数据集来自Kaggle。利用房屋面积、房间数量、车库容量等共81个变量，1400+训练集样本对Ames, Iowa的房屋价格进行预测，最小化RMSE。特征工程方面，对缺失值和异常值进行处理；调整目标变量偏态分布；利用seaborn绘制热力图，挖掘变量相关性以及与目标函数高度相关的特征；利用LabelEncoder和one-hot编码将部分类别型特征转化为数值型特征；利用Box-Cox处理高偏态数值型特征。机器学习方面，调用XGboost、KNN、SVM等8种模型预测并进行Bagging、Stacking集成，最终RMSE 0.1183，在Kaggle排名榜中可以进入Top 2%。
+数据集来自Kaggle。利用81个变量，1400+训练集样本对Ames, Iowa的房屋价格进行预测。特征工程方面，对缺失值和异常值进行处理；调整目标变量偏态分布；利用seaborn绘制热力图，挖掘变量相关性以及与目标函数高度相关的特征；利用LabelEncoder和one-hot编码将部分类别型特征转化为数值型特征；利用Box-Cox处理高偏态数值型特征。机器学习方面，调用XGboost、KNN、SVM等8种模型预测并进行Bagging、Stacking集成，最终RMSE 0.1183，在Kaggle排名榜中可以进入Top 2%。
 
 <br />
 
