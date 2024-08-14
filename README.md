@@ -15,7 +15,7 @@ This Portfolio is a compilation of all the projects I have done for academic, se
 
 - Recipient of **2nd Prize**, *Scholarship & Merit Student* of Wuhan University
 - **Meritorious Winner**, *2024 Interdisciplinary Contest In Modeling (ICM)* (Top 7%)
-- Recipient of **National 2nd Prize**, *Citi Cup Financial Innovation Application Contest* (Top 15 among 152 teams)
+- Recipient of **National 2nd Prize**, *Citi Cup Financial Innovation Application Contest* (Top 5 among 152 teams)
 - Recipient of **National 1st Prize**, *2022 National College Business Elite Challenge (CUBEC) International Trade Competition*
 - Recipient of **National 1st Prize**, *2022 National English Competition for College Students (NECCS)* (Top 5‰)
 
