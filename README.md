@@ -21,7 +21,7 @@ This Portfolio is a compilation of all the projects I have done for academic, se
 
 ### 1. 数据清洗、探索与可视化 Data Manipulation and EDA
 
-<img align="left" width="250" height="150" src="https://ck-obsidian.oss-cn-hangzhou.aliyuncs.com/20240801093529.png"> **[中国上市公司的分布与疫情下发展状况的探究——对 A 股 3000 余家上市公司的数据探索与机器学习 [12/2023] [R]](https://public.tableau.com/views/SalesPerformanceDashboard_17224722585070/sheet0?:language=zh-CN&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+<img align="left" width="250" height="150" src="https://ck-obsidian.oss-cn-hangzhou.aliyuncs.com/20240801093529.png"> **[中国上市公司的分布与疫情下发展状况的探究——对 A 股 3000 余家上市公司的数据探索与机器学习 [12/2023] [R, Python]](https://public.tableau.com/views/SalesPerformanceDashboard_17224722585070/sheet0?:language=zh-CN&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 出于对疫情背景下不同企业发展情况的好奇，从上市公司数据着手，利用Tushare API接口获取财务数据，通过柱状图、玫瑰图、散点图、箱线图等多种类型图表探究上市公司分布特征以及疫情对不同行业的影响，通过PCA、SOM、K-Means等非监督机器学习方法进行降维与聚类。
 
@@ -29,7 +29,7 @@ This Portfolio is a compilation of all the projects I have done for academic, se
 
 ### 2. 制作数据看板 (Tableau) Dashboard Building with Tableau
 
-<img align="left" width="250" height="150" src="https://ck-obsidian.oss-cn-hangzhou.aliyuncs.com/20240801093529.png"> **[Superstore Sales Performance Dashboard [08/2024] [Tableau]](https://public.tableau.com/views/SalesPerformanceDashboard_17224722585070/sheet0?:language=zh-CN&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link "Lick to open the dashboard website")**
+<img align="left" width="250" height="150" src="https://ck-obsidian.oss-cn-hangzhou.aliyuncs.com/Superstore.jpg"> **[Superstore Sales Performance Dashboard [08/2024] [Tableau]](https://public.tableau.com/views/SalesPerformanceDashboard_17224722585070/sheet0?:language=zh-CN&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link "Lick to open the dashboard website")**
 
 利用美国商超零售数据制作可视化、可交互数据看板，呈现不同年份分地区、分州（包括每个州Top5城市）、分品类、分子品类以及渠道的销售数据和趋势，轻松并可通过点击不同组件实现全局筛选器，能够轻松监控业绩表现并归因。
 
@@ -49,7 +49,7 @@ This Portfolio is a compilation of all the projects I have done for academic, se
 
 #### PSM-DID 政策效应研究论文复刻
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/airplane.jpeg"> **[中国碳市场的碳减排效应研究——基于市场机制与行政干预的协同作用视角 论文复刻 [05/2024] [Stata]](https://github.com/Kaiqiang-Chen/Portfolio/tree/2adf7d4a0cdb6707b5b3972c952422266ff42150/01_Data%20Science%20%26%20Data%20Analysis/6.%20Other%20Capstones/PSM-DID%E6%94%BF%E7%AD%96%E6%95%88%E5%BA%94%E7%A0%94%E7%A9%B6%E8%AE%BA%E6%96%87%E5%A4%8D%E5%88%BB)**
+<img align="left" width="250" height="150" src="https://raw.githubusercontent.com/Kaiqiang-Chen/images/main/portfolio/httpsgithub.comarchd3saiPortfolioblobmasterImagesairplane.jpeg.png"> **[中国碳市场的碳减排效应研究——基于市场机制与行政干预的协同作用视角 [05/2024]](https://github.com/Kaiqiang-Chen/Portfolio/tree/2adf7d4a0cdb6707b5b3972c952422266ff42150/01_Data%20Science%20%26%20Data%20Analysis/6.%20Other%20Capstones/PSM-DID%E6%94%BF%E7%AD%96%E6%95%88%E5%BA%94%E7%A0%94%E7%A9%B6%E8%AE%BA%E6%96%87%E5%A4%8D%E5%88%BB)**
 
 复刻了一篇关于全球变暖背景下中国碳市场碳减排效应的研究，基于市场机制与行政干预的协同作用视角，利用PSM-DID方法，检验了试点地区碳市场促进碳减排的理论机理与政策效果，包括平行趋势检验、安慰剂检验、PSM半径匹配/近邻匹配/核匹配/剔除其他政策以及特殊样本影响的稳健性分析，以及碳价、市场流动性和相对市场交易规模三个机制变量的传导机制分析。
 
@@ -75,7 +75,7 @@ A hybrid-filtering personalized news articles recommendation system which can su
 
 ### 6. 其他实践项目 Other Capstone Projects
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/airplane.jpeg"> **[关于多旅行商问题(MTSP)的启发式算法研究（小组完成） [04/2024] [Python]](https://github.com/Kaiqiang-Chen/Portfolio/tree/2adf7d4a0cdb6707b5b3972c952422266ff42150/01_Data%20Science%20%26%20Data%20Analysis/6.%20Other%20Capstones/%E5%85%B3%E4%BA%8E%E5%A4%9A%E6%97%85%E8%A1%8C%E4%B8%8A%E9%97%AE%E9%A2%98(MTSP)%E7%9A%84%E5%90%AF%E5%8F%91%E5%BC%8F%E7%AE%97%E6%B3%95%E7%A0%94%E7%A9%B6%EF%BC%88%E5%B0%8F%E7%BB%84%EF%BC%89) **
+<img align="left" width="250" height="150" src="https://raw.githubusercontent.com/Kaiqiang-Chen/images/main/portfolio/20240814132016.png"> **[关于多旅行商问题(MTSP)的启发式算法研究（小组完成） [04/2024] [Python]](https://github.com/Kaiqiang-Chen/Portfolio/tree/2adf7d4a0cdb6707b5b3972c952422266ff42150/01_Data%20Science%20%26%20Data%20Analysis/6.%20Other%20Capstones/%E5%85%B3%E4%BA%8E%E5%A4%9A%E6%97%85%E8%A1%8C%E4%B8%8A%E9%97%AE%E9%A2%98(MTSP)%E7%9A%84%E5%90%AF%E5%8F%91%E5%BC%8F%E7%AE%97%E6%B3%95%E7%A0%94%E7%A9%B6%EF%BC%88%E5%B0%8F%E7%BB%84%EF%BC%89)**
 
 旅行商问题是运筹学中的经典问题。我们拓展了经典问题的情境假设使其更贴合实际问题，并以多仓库、封闭情形为例展开启发式算法研究。我们分大规模问题和小规模问题两种情形，首先用Python中的Gurobipy库实现线性规划的求解，然后通过Genetic Algorithm(GA)、Simulated Annealing(SA) 等启发式算法求解并进行优化，比较不同求解方法优劣（求解结果和效率）。
 
@@ -94,7 +94,7 @@ A hybrid-filtering personalized news articles recommendation system which can su
 
 ### 1. 贝恩实习期间参与零售行业报告
 
-<img align="left" width="250" height="150" src="https://ck-obsidian.oss-cn-hangzhou.aliyuncs.com/20240812165158.png"> **[贝恩联合中国连锁经营协会：2023中国生鲜快消品零售业态发展趋势研究报告 [07/2023 - 10/2023]](https://www.bain.cn/news_info.php?id=1751)**
+<img align="left" width="250" height="150" src="https://raw.githubusercontent.com/Kaiqiang-Chen/images/main/portfolio/20240814131754.png"> **[贝恩联合中国连锁经营协会：2023中国生鲜快消品零售业态发展趋势研究报告 [07/2023 - 10/2023]](https://www.bain.cn/news_info.php?id=1751)**
 
 共参与制作 ~10 页报告：研究国内 8 大零售业态现状，并参考西方硬折扣店发展历程判断未来趋势；提出商超门店集中度与利润率正相关的假设，通过年报等搜集数据，并进行回归分析验证假设，建议零售商在核心区域高密度布局发挥规模优势等。
 
