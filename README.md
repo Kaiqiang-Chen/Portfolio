@@ -24,6 +24,7 @@ This Portfolio is a compilation of all the projects I have done for academic, se
 <img align="left" width="250" height="150" src="https://raw.githubusercontent.com/Kaiqiang-Chen/images/main/portfolio/20240814133515.png"> **[中国上市公司的分布与疫情下发展状况的探究 [12/2023] [R, Python]](https://github.com/Kaiqiang-Chen/Portfolio/tree/6bf1ae485af8bb6748b903f69a48cb696547488c/01_Data%20Science%20%26%20Data%20Analysis/1.%20Data%20Manipulation%20%26%20EDA/Stock%20Data%20Visualization%20and%20Exploration)**
 
 出于对疫情背景下不同企业发展情况的好奇，从上市公司数据着手，利用Tushare API接口获取财务数据，通过柱状图、玫瑰图、散点图、箱线图等多种类型图表探究上市公司分布特征以及疫情对不同行业的影响，通过PCA、SOM、K-Means等非监督机器学习方法进行降维与聚类。
+
 <br />
 
 ### 2. 制作数据看板 (Tableau) Dashboard Building with Tableau
