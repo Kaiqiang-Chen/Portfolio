@@ -1,6 +1,10 @@
 # 作品集 - 陈凯强 Portfolio
 
+这份作品集汇集了我在实践、学术和自由探索完成的一些项目，涵盖了**数据科学与数据分析**、**产品设计**和**咨询**等多个领域。也涵盖我的成就、技能等。将不定期更新。
+
 This Portfolio is a compilation of all the projects I have done for academic, self-learning and hobby purposes, covering various fields incl. **Data Science & Data Analysis**, **Product Management** and **Coonsulting**. This portfolio also contains my Achievements, skills, and certificates. It is updated on the regular basis.
+
+**[CONTACTS]**
 
 - **Email**: [kaiqiang.chen@outlook.com](kaiqiang.chen@outlook.com)
 - **LinkedIn**: [www.linkedin.com/in/kenneth-kaiqiang-chen](https://www.linkedin.com/in/kenneth-kaiqiang-chen)
@@ -74,18 +78,25 @@ A hybrid-filtering personalized news articles recommendation system which can su
 
 ## IV. 咨询报告 Consulting Reports
 
-### 1. 2023奥玮咨询商赛报告：Five-Year Growth Strategy for Banbao
+### 1. 贝恩实习期间参与零售行业报告
 
-<img align="left" width="250" height="150" src="https://ck-obsidian.oss-cn-hangzhou.aliyuncs.com/20240812165158.png"> **[Five-Year Growth Strategy for Banbao| Team OWesome](https://github.com/archd3sai/Predicting-GDP-of-India)**
+<img align="left" width="250" height="150" src="https://ck-obsidian.oss-cn-hangzhou.aliyuncs.com/20240812165158.png"> **[贝恩联合中国连锁经营协会：2023中国生鲜快消品零售业态发展趋势研究报告,07/2023 - 10/2023](https://www.bain.cn/news_info.php?id=1751)**
+
+中国积木玩具行业的领先企业正面临来自全球巨头和本地新兴玩家的激烈竞争。我们选取邦宝作为客户公司，为其制定收入增长战略。我们通过全方位的行业研究得出行业规模增速及驱动力、竞争格局、KSF和发展趋势；通过问卷调查获得一手消费者数据，聚类不同客群，提炼消费人群画像和KPC；最终设计战略，对标头部品牌制定全渠道战略和门店选址方案，并结合案例研究设计新产品和爆款营销策略等。
+
+
+### 2. 2023 奥玮咨询商赛报告（队长）
+
+<img align="left" width="250" height="150" src="https://ck-obsidian.oss-cn-hangzhou.aliyuncs.com/20240812165158.png"> **[Five-Year Growth Strategy for Banbao | Team OWesome, 04/2023](https://github.com/archd3sai/Predicting-GDP-of-India)**
 
 中国积木玩具行业的领先企业正面临来自全球巨头和本地新兴玩家的激烈竞争。我们选取邦宝作为客户公司，为其制定收入增长战略。我们通过全方位的行业研究得出行业规模增速及驱动力、竞争格局、KSF和发展趋势；通过问卷调查获得一手消费者数据，聚类不同客群，提炼消费人群画像和KPC；最终设计战略，对标头部品牌制定全渠道战略和门店选址方案，并结合案例研究设计新产品和爆款营销策略等。
 
 
 <br />
 
-### 2. 2023 贝恩杯咨询商赛报告：Carbon neutralization strategy for TNC in Dairy Industry 
+### 3. 2023 贝恩杯咨询商赛报告 
 
-<img align="left" width="250" height="150" src="https://ck-obsidian.oss-cn-hangzhou.aliyuncs.com/20240812165054.png"> **[Carbon neutralization strategy for TNC in Dairy Industry | Team XiaoBaoBain](https://github.com/archd3sai/Predicting-GDP-of-India)**
+<img align="left" width="250" height="150" src="https://ck-obsidian.oss-cn-hangzhou.aliyuncs.com/20240812165054.png"> **[Carbon neutralization strategy for TNC in Dairy Industry | Team XiaoBaoBain, 05/2023](https://github.com/archd3sai/Predicting-GDP-of-India)**
 
 当前畜牧业正面临甲烷排放等碳中和挑战。环保非营利组织(NGO)的首席战略官提出，希望通过试点推进可持续畜牧业实践，借鉴发达国家的减排措施，并探讨NGO在其中的作用。我们回答了关于选择关注的畜牧业子行业、碳中和痛点、优先试点的农场类型及关键减排措施等核心问题，并以充足的案头研究和数据分析和基础，为TNC这家NGO提供战略建议。
 
