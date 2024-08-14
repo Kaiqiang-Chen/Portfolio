@@ -43,13 +43,23 @@ xx
 
 
 
-### 4. 因果推断与AB实验 Causal Inference and A/B Test
+### 4. 因果推断与A/B实验 Causal Inference and A/B Test
+
+#### A/B实验：互动广告是否能提高用户转化率？
 
 <img align="left" width="250" height="150" src="https://ck-obsidian.oss-cn-hangzhou.aliyuncs.com/20240812164954.png"> **[Interactive Ads and User Conversion Rates: An A/B Test](https://github.com/archd3sai/News-Articles-Recommendation)**
 
 A hybrid-filtering personalized news articles recommendation system which can suggest articles from popular news service providers based on reading history of twitter users who share similar interests (Collaborative filtering) and content similarity of the article and user’s tweets (Content-based filtering).
+<br />
+
+#### PSM-DID 政策效应研究论文复刻
+
+<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/airplane.jpeg"> **[中国碳市场的碳减排效应研究——基于市场机制与行政干预的协同作用视角 论文复刻](https://github.com/Kaiqiang-Chen/Portfolio/tree/2adf7d4a0cdb6707b5b3972c952422266ff42150/01_Data%20Science%20%26%20Data%20Analysis/6.%20Other%20Capstones/PSM-DID%E6%94%BF%E7%AD%96%E6%95%88%E5%BA%94%E7%A0%94%E7%A9%B6%E8%AE%BA%E6%96%87%E5%A4%8D%E5%88%BB)**
+
+复刻了一篇关于全球变暖背景下中国碳市场碳减排效应的研究，基于市场机制与行政干预的协同作用视角，利用PSM-DID方法，检验了试点地区碳市场促进碳减排的理论机理与政策效果，包括平行趋势检验、安慰剂检验、PSM半径匹配/近邻匹配/核匹配/剔除其他政策以及特殊样本影响的稳健性分析，以及碳价、市场流动性和相对市场交易规模三个机制变量的传导机制分析。
 
 <br />
+
 
 ### 5. 数据建模 Data Modeling
 
@@ -62,15 +72,15 @@ A hybrid-filtering personalized news articles recommendation system which can su
 
 ### 6. 其他实践项目 Other Capstone Projects
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/airplane.jpeg"> **[PSM-DID政策效应研究论文复刻](https://github.com/archd3sai/Predictive-Maintenance-of-Aircraft-Engine)**
-
-复刻了一篇关于全球变暖背景下中国碳市场碳减排效应的研究，基于市场机制与行政干预的协同作用视角，利用PSM-DID方法，检验了试点地区碳市场促进碳减排的理论机理与政策效果，包括平行趋势检验、安慰剂检验、PSM半径匹配/近邻匹配/核匹配/剔除其他政策以及特殊样本影响的稳健性分析，以及碳价、市场流动性和相对市场交易规模三个机制变量的传导机制分析。
+<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/airplane.jpeg"> **[关于多旅行商问题(MTSP)的启发式算法研究（小组完成）](https://github.com/Kaiqiang-Chen/Portfolio/tree/2adf7d4a0cdb6707b5b3972c952422266ff42150/01_Data%20Science%20%26%20Data%20Analysis/6.%20Other%20Capstones/%E5%85%B3%E4%BA%8E%E5%A4%9A%E6%97%85%E8%A1%8C%E4%B8%8A%E9%97%AE%E9%A2%98(MTSP)%E7%9A%84%E5%90%AF%E5%8F%91%E5%BC%8F%E7%AE%97%E6%B3%95%E7%A0%94%E7%A9%B6%EF%BC%88%E5%B0%8F%E7%BB%84%EF%BC%89) **
+旅行商问题是运筹学中的经典问题。我们拓展了经典问题的情境假设使其更贴合实际问题，并以多仓库、封闭清醒为例展开启发式算法研究。我们分大规模问题和小规模问题两种情形，首先用Python中的Gurobipy库实现线性规划的求解，然后通过Genetic Algorithm(GA)、Simulated Annealing(SA) 等启发式算法求解并进行优化，比较不同求解方法优劣（求解结果和效率）。
 
 <br />
 
+
 ## III. 产品设计 Product Management
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/960x0.jpg"> **[PropriskAI - One-Stop Real Estate Risk Informa Service](https://github.com/archd3sai/Wind-Turbine-Power-Curve-Estimation)**
+<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/960x0.jpg"> **[PropriskAI - One-Stop Real Estate Risk Informa Service](https://github.com/Kaiqiang-Chen/Portfolio/tree/2adf7d4a0cdb6707b5b3972c952422266ff42150/02_Product%20Management/PropriskAI%E2%80%94%E2%80%94%E4%B8%80%E7%AB%99%E5%BC%8F%E6%88%BF%E5%9C%B0%E4%BA%A7%E9%A3%8E%E9%99%A9%E4%BF%A1%E6%81%AF%E6%9C%8D%E5%8A%A1%E5%85%A8%E8%A7%86%E7%95%8CAI)**
 
 近期某些房地产公司发生债券违约事件，流动性危机频发，上游供应商的应收账款也面临账期延长，但房地产风险信息分散、难以获得，极大影响上游供应商和投资者的决策。我们利用AI数据挖掘以及随机森林、神经网络等机器学习算法，解决信息分散、非结构化等痛点，自主构建数据集并提出客观评估房地产企业流动性危机影响范围和规模的模型方法，搭建了一站式房地产风险全视域AI——PropriskAI。
 
@@ -87,15 +97,17 @@ A hybrid-filtering personalized news articles recommendation system which can su
 
 ### 2. 2023 奥玮咨询商赛报告（队长）
 
-<img align="left" width="250" height="150" src="https://ck-obsidian.oss-cn-hangzhou.aliyuncs.com/20240812165158.png"> **[Five-Year Growth Strategy for Banbao | Team OWesome [04/2023]](https://github.com/archd3sai/Predicting-GDP-of-India)**
-中国积木玩具行业的领先企业正面临来自全球巨头和本地新兴玩家的激烈竞争。我们为客户公司制定收入增长战略。通过行业研究得出行业规模增速及驱动力、竞争格局、KSF和发展趋势；通过问卷调查获得一手消费者数据，聚类不同客群，提炼消费人群画像和KPC；最终设计战略，对标头部品牌制定全渠道战略和门店选址方案，并结合案例研究设计新产品和爆款营销策略等。
+<img align="left" width="250" height="150" src="https://ck-obsidian.oss-cn-hangzhou.aliyuncs.com/20240812165158.png"> **[Five-Year Growth Strategy for Banbao | Team OWesome [04/2023]](https://github.com/Kaiqiang-Chen/Portfolio/blob/2adf7d4a0cdb6707b5b3972c952422266ff42150/03_Consulting%20Reports/5-Year%20Strategy%20for%20Banbao_Team%20OWesome%20Final_Captain_Kaiqiang%20Chen.pdf)**
+
+中国积木玩具行业的领先企业正面临来自全球巨头和本地新兴玩家的激烈竞争。我们为客户制定收入增长战略。通过行业研究得出行业规模增速及驱动力、竞争格局、KSF和发展趋势；通过问卷调查获得一手消费者数据，聚类不同客群，提炼消费人群画像和KPC；最终设计战略，对标头部品牌制定全渠道战略和门店选址方案，并结合案例研究设计新产品和爆款营销策略等。
 
 
 <br />
 
 ### 3. 2023 贝恩杯咨询商赛报告 
-<img align="left" width="250" height="150" src="https://ck-obsidian.oss-cn-hangzhou.aliyuncs.com/20240812165054.png"> **[Carbon neutralization strategy for TNC in Dairy Industry | Team XiaoBaoBain, 05/2023](https://github.com/archd3sai/Predicting-GDP-of-India)**
-当前畜牧业正面临甲烷排放等碳中和挑战。环保非营利组织(NGO)首席战略官提出，希望通过试点推进可持续畜牧业实践，借鉴发达国家减排措施，并探讨NGO在其中的作用。我们以充足的案头研究和数据分析为基础，回答了关于选择关注的畜牧业子行业、碳中和痛点、优先试点的农场类型及关键减排措施等核心问题，向TNC这家NGO提供战略建议。
+<img align="left" width="250" height="150" src="https://ck-obsidian.oss-cn-hangzhou.aliyuncs.com/20240812165054.png"> **[Carbon neutralization strategy for TNC in Dairy Industry | Team XiaoBaoBain, 05/2023](https://github.com/Kaiqiang-Chen/Portfolio/blob/2adf7d4a0cdb6707b5b3972c952422266ff42150/03_Consulting%20Reports/Carbon%20neutralization%20strategy%20for%20TNC%20Industry_Team%20XiaoBaoBain.pdf)**
+
+当前畜牧业正面临甲烷排放等碳中和挑战。环保非营利组织(NGO)首席战略官提出，希望通过试点推进可持续畜牧业实践，借鉴发达国家减排措施，并探讨NGO在其中的作用。我们回答了关于选择关注的畜牧业子行业、碳中和痛点、优先试点的农场类型及关键减排措施等核心问题，向TNC这家NGO提供战略建议。
 
 <br />
 
@@ -103,7 +115,7 @@ A hybrid-filtering personalized news articles recommendation system which can su
 
 - ### 智能优化算法（元启发式算法） Metaheuristic Algorithms
 
-  - [关于多旅行商问题(MTSP)的启发式算法研究](https://github.com/archd3sai/Statistical-Methods/blob/master/genetic-algorithm.ipynb) : to be updated.
+  - [关于多旅行商问题(MTSP)的启发式算法研究（小组完成）](https://github.com/Kaiqiang-Chen/Portfolio/tree/2adf7d4a0cdb6707b5b3972c952422266ff42150/01_Data%20Science%20%26%20Data%20Analysis/6.%20Other%20Capstones/%E5%85%B3%E4%BA%8E%E5%A4%9A%E6%97%85%E8%A1%8C%E4%B8%8A%E9%97%AE%E9%A2%98(MTSP)%E7%9A%84%E5%90%AF%E5%8F%91%E5%BC%8F%E7%AE%97%E6%B3%95%E7%A0%94%E7%A9%B6%EF%BC%88%E5%B0%8F%E7%BB%84%EF%BC%89) : 旅行商问题是运筹学中的经典问题。我们拓展了经典问题的情境假设使其更贴合实际问题，并以多仓库、封闭清醒为例展开启发式算法研究。我们分大规模问题和小规模问题两种情形，首先用Python中的Gurobipy库实现线性规划的求解，然后通过Genetic Algorithm(GA)、Simulated Annealing(SA) 等启发式算法求解并进行优化，比较不同求解方法优劣（求解结果和效率）。
   
 - ### 运筹学 Operations Research
 
