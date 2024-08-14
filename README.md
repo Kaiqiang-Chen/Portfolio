@@ -24,7 +24,6 @@ This Portfolio is a compilation of all the projects I have done for academic, se
 <img align="left" width="250" height="150" src="https://raw.githubusercontent.com/Kaiqiang-Chen/images/main/portfolio/20240814133515.png"> **[中国上市公司的分布与疫情下发展状况的探究 [12/2023] [R, Python]](https://github.com/Kaiqiang-Chen/Portfolio/tree/6bf1ae485af8bb6748b903f69a48cb696547488c/01_Data%20Science%20%26%20Data%20Analysis/1.%20Data%20Manipulation%20%26%20EDA/Stock%20Data%20Visualization%20and%20Exploration)**
 
 出于对疫情背景下不同企业发展情况的好奇，从上市公司数据着手，利用Tushare API接口获取财务数据，通过柱状图、玫瑰图、散点图、箱线图等多种类型图表探究上市公司分布特征以及疫情对不同行业的影响，通过PCA、SOM、K-Means等非监督机器学习方法进行降维与聚类。
-
 <br />
 
 ### 2. 制作数据看板 (Tableau) Dashboard Building with Tableau
@@ -87,7 +86,6 @@ A hybrid-filtering personalized news articles recommendation system which can su
 <img align="left" width="250" height="150" src="https://raw.githubusercontent.com/Kaiqiang-Chen/images/main/portfolio/20240814133802.png"> **[贝恩联合中国连锁经营协会：2023中国生鲜快消品零售业态发展趋势研究报告 [07/2023 - 10/2023]](https://www.bain.cn/news_info.php?id=1751)**
 
 共参与制作 ~10 页报告：研究国内 8 大零售业态现状，并参考西方硬折扣店发展历程判断未来趋势；提出商超门店集中度与利润率正相关的假设，通过年报等搜集数据，并进行回归分析验证假设，建议零售商在核心区域高密度布局发挥规模优势等。
-
 <br />
 
 ### 2. 2023 奥玮咨询商赛报告（队长）
@@ -95,14 +93,12 @@ A hybrid-filtering personalized news articles recommendation system which can su
 <img align="left" width="250" height="150" src="https://ck-obsidian.oss-cn-hangzhou.aliyuncs.com/20240812165158.png"> **[Five-Year Growth Strategy for Banbao | Team OWesome [04/2023]](https://github.com/Kaiqiang-Chen/Portfolio/blob/2adf7d4a0cdb6707b5b3972c952422266ff42150/03_Consulting%20Reports/5-Year%20Strategy%20for%20Banbao_Team%20OWesome%20Final_Captain_Kaiqiang%20Chen.pdf)**
 
 中国积木玩具行业的领先企业正面临来自全球巨头和本地新兴玩家的激烈竞争。我们为客户制定收入增长战略。通过行业研究得出行业规模增速及驱动力、竞争格局、KSF和发展趋势；通过问卷调查获得一手消费者数据，聚类不同客群，提炼消费人群画像和KPC；最终设计战略，对标头部品牌制定全渠道战略和门店选址方案，并结合案例研究设计新产品和爆款营销策略等。
-
 <br />
 
 ### 3. 2023 贝恩杯咨询商赛报告 
 <img align="left" width="250" height="150" src="https://ck-obsidian.oss-cn-hangzhou.aliyuncs.com/20240812165054.png"> **[Carbon neutralization strategy for TNC in Dairy Industry | Team XiaoBaoBain, 05/2023](https://github.com/Kaiqiang-Chen/Portfolio/blob/2adf7d4a0cdb6707b5b3972c952422266ff42150/03_Consulting%20Reports/Carbon%20neutralization%20strategy%20for%20TNC%20Industry_Team%20XiaoBaoBain.pdf)**
 
 当前畜牧业正面临甲烷排放等碳中和挑战。环保非营利组织(NGO)首席战略官提出，希望通过试点推进可持续畜牧业实践，借鉴发达国家减排措施，并探讨NGO在其中的作用。我们回答了关于选择关注的畜牧业子行业、碳中和痛点、优先试点的农场类型及关键减排措施等核心问题，向TNC(NGO) 提供战略建议。
-
 <br />
 
 
