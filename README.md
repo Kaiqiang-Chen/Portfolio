@@ -44,7 +44,7 @@ This Portfolio is a compilation of all the projects I have done for academic, se
 
 ### 4. 因果推断与A/B实验 Causal Inference and A/B Test
 
-<img align="left" width="250" height="150" src="https://ck-obsidian.oss-cn-hangzhou.aliyuncs.com/20240814194119.png"> **[PSM-DID 政策效应研究论文复刻 [05/2024] [Stata]](https://github.com/Kaiqiang-Chen/Portfolio/tree/2adf7d4a0cdb6707b5b3972c952422266ff42150/01_Data%20Science%20%26%20Data%20Analysis/6.%20Other%20Capstones/PSM-DID%E6%94%BF%E7%AD%96%E6%95%88%E5%BA%94%E7%A0%94%E7%A9%B6%E8%AE%BA%E6%96%87%E5%A4%8D%E5%88%BB)**
+<img align="left" width="250" height="150" src="https://raw.githubusercontent.com/Kaiqiang-Chen/images/main/20240814194313.png"> **[PSM-DID 政策效应研究论文复刻 [05/2024] [Stata]](https://github.com/Kaiqiang-Chen/Portfolio/tree/2adf7d4a0cdb6707b5b3972c952422266ff42150/01_Data%20Science%20%26%20Data%20Analysis/6.%20Other%20Capstones/PSM-DID%E6%94%BF%E7%AD%96%E6%95%88%E5%BA%94%E7%A0%94%E7%A9%B6%E8%AE%BA%E6%96%87%E5%A4%8D%E5%88%BB)**
 
 复刻了一篇关于全球变暖背景下中国碳市场碳减排效应的研究，基于市场机制与行政干预的协同作用视角，利用PSM-DID方法，检验了试点地区碳市场促进碳减排的理论机理与政策效果，包括平行趋势检验、安慰剂检验、PSM半径匹配/近邻匹配/核匹配/剔除其他政策以及特殊样本影响的稳健性分析，以及碳价、市场流动性和相对市场交易规模三个机制变量的传导机制分析。
 
