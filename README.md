@@ -115,13 +115,13 @@ This Portfolio is a compilation of all the projects I have done for academic, se
 
 ## V. 核心技能 Core Competencies
 
--	**代码能力**：Python (熟练，EDA[Numpy, Pandas, Matplotlib] / 机器学习[sklearn] / 爬虫[request, re, selenium] / 规划求解[Gurobipy]), SQL (熟练，窗口函数，数仓ETL), R (熟练，Dplyr, Tidyr, ggplot2,mlr3), Java, C++, Git
+-	**代码能力**：**Python** (熟练，EDA[Numpy, Pandas, Matplotlib] / 机器学习[sklearn] / 爬虫[request, re, selenium] / 规划求解[Gurobipy]), **SQL** (熟练，窗口函数，数仓ETL), **R** (熟练，Dplyr, Tidyr, ggplot2,mlr3), Java, C++, Git
 -	**数理能力**：数据结构、元启发式算法、贝叶斯统计 (MCMC)、运筹学、离散数学、机器学习、概率统计 (SPSS)、因果推断/计量 (Stata) 
 -	**其他技能**：英语 (GRE: 325/340 + W4); Tableau/Tableau; AWS; AARRR/RFM/漏斗等业务分析模型；MS Office (Thinkcell); Figma, Canvas, Draw.io
 
 <br />
 
 - **Methodologies**: Machine Learning, Statistics, Big Data Analytics, Causal Inference (Econometrics), Bayesian Statistics (MCMC), Data Structure and Algorithm, Operation Research
-- **Languages**: Python (Proficient, EDA[Numpy, Pandas, Matplotlib] / ML[sklearn] / Scrawling [request, re, selenium, xpath] / Optimization [Gurobipy]), SQL(Proficient[partition, ETL]), R(Proficient[Dplyr, Tidyr, ggplot2,mlr3]), Java, C++
+- **Languages**: **Python** *(Proficient, EDA[Numpy, Pandas, Matplotlib] / ML[sklearn] / Scrawling [request, re, selenium, xpath] / Optimization [Gurobipy])*, **SQL** *(Proficient[partition, ETL])*, **R** *(Proficient[Dplyr, Tidyr, ggplot2,mlr3])*, Java, C++
 - **Tools**: MySQL, Tableau, PowerBI, Quicksight, Git, Amazon Web Services (AWS), SPSS, MS Office (Thinkcell), Figma, Canvas, Draw.io
 - **Others**: English (GRE: 325/340 + W4)
