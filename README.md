@@ -33,9 +33,16 @@ This Portfolio is a compilation of all the projects I have done for academic, se
 
 <img align="left" width="250" height="150" src="https://ck-obsidian.oss-cn-hangzhou.aliyuncs.com/20240812164456.png"> **[Kaggle | House Prices - Advanced Regression Techniques](https://github.com/Kaiqiang-Chen/Portfolio/blob/878769faa1fef4dae7661c2e0ee516bfa9f0ebd7/Data%20Science%20%26%20Data%20Analysis/Dashboard%20Building%20with%20Tableau/Readme_Dashboard.md)**
 
-数据集来自Kaggle。利用81个变量，1400+训练集样本对Ames, Iowa的房屋价格进行预测。特征工程方面，对缺失值和异常值进行处理；调整目标变量偏态分布；利用seaborn绘制热力图，挖掘变量相关性以及与目标函数高度相关的特征；利用LabelEncoder和one-hot编码将部分类别型特征转化为数值型特征；利用Box-Cox处理高偏态数值型特征。机器学习方面，调用XGboost、KNN、SVM等8种模型预测并进行Bagging、Stacking集成，最终RMSE 0.1183，在Kaggle排名榜中可以进入Top 2%。
+数据集来自Kaggle。利用81个变量，1400+训练集样本对爱荷华州的房屋价格进行预测。首先进行特征工程，对缺失值和异常值进行处理；利用seaborn绘制热力图，挖掘变量相关性以及与目标函数高度相关的特征；利用LabelEncoder和one-hot编码将部分类别型特征转化为数值型特征；利用Box-Cox处理高偏态数值型特征。然后调用XGboost、KNN、SVM等8种机器模型预测并进行Stacking集成，最终成绩在排行榜中可进入Top 2%。
 
 <br />
+
+<img align="left" width="300" height="150" src="https://ck-obsidian.oss-cn-hangzhou.aliyuncs.com/20240812164456.png"> **[Kaggle | House Prices - Advanced Regression Techniques](https://github.com/Kaiqiang-Chen/Portfolio/blob/878769faa1fef4dae7661c2e0ee516bfa9f0ebd7/Data%20Science%20%26%20Data%20Analysis/Dashboard%20Building%20with%20Tableau/Readme_Dashboard.md)**
+
+数据集来自Kaggle。利用81个变量，1400+训练集样本对爱荷华州的房屋价格进行预测。首先进行特征工程，对缺失值和异常值进行处理；利用seaborn绘制热力图，挖掘变量相关性以及与目标函数高度相关的特征；利用LabelEncoder和one-hot编码将部分类别型特征转化为数值型特征；利用Box-Cox处理高偏态数值型特征。然后调用XGboost、KNN、SVM等8种机器模型预测并进行Stacking集成，最终成绩在排行榜中可进入Top 2%。
+
+<br />
+
 
 ### 4. Causal Inference and A/B Test
 
@@ -56,7 +63,7 @@ A hybrid-filtering personalized news articles recommendation system which can su
 
 ### 6. Other Capstone Projects
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/airplane.jpeg"> **[PSM-DID政策效应研究论文复刻](https://github.com/archd3sai/Predictive-Maintenance-of-Aircraft-Engine)**
+<img align="left" width="300" height="200" src="https://github.com/archd3sai/Portfolio/blob/master/Images/airplane.jpeg"> **[PSM-DID政策效应研究论文复刻](https://github.com/archd3sai/Predictive-Maintenance-of-Aircraft-Engine)**
 
 复刻了一篇关于全球变暖背景下中国碳市场碳减排效应的研究，基于市场机制与行政干预的协同作用视角，利用PSM-DID方法，检验了试点地区碳市场促进碳减排的理论机理与政策效果，包括平行趋势检验、安慰剂检验、PSM半径匹配/近邻匹配/核匹配/剔除其他政策以及特殊样本影响的稳健性分析，以及碳价、市场流动性和相对市场交易规模三个机制变量的传导机制分析。
 
@@ -74,7 +81,7 @@ A hybrid-filtering personalized news articles recommendation system which can su
 
 ### 1. Five-Year Growth Strategy for Banbao (2023 Oliver Wyman Impact Case Competition | Team OWesome)
 
-<img align="left" width="30" height="200" src="https://ck-obsidian.oss-cn-hangzhou.aliyuncs.com/20240812165158.png"> **[Five-Year Growth Strategy for Banbao](https://github.com/archd3sai/Predicting-GDP-of-India)**
+<img align="left" width="300" height="200" src="https://ck-obsidian.oss-cn-hangzhou.aliyuncs.com/20240812165158.png"> **[Five-Year Growth Strategy for Banbao](https://github.com/archd3sai/Predicting-GDP-of-India)**
 
 中国积木玩具行业的领先企业正面临来自全球巨头和本地新兴玩家的激烈竞争。我们选取邦宝作为客户公司，为其制定收入增长战略。我们通过全方位的行业研究得出行业规模增速及驱动力、竞争格局、KSF和发展趋势；通过问卷调查获得一手消费者数据，聚类不同客群，提炼消费人群画像和KPC；最终设计战略，对标头部品牌制定全渠道战略和门店选址方案，并结合案例研究设计新产品和爆款营销策略等。
 
