@@ -74,9 +74,9 @@ A hybrid-filtering personalized news articles recommendation system which can su
 
 ### 1. Five-Year Growth Strategy for Banbao (2023 Oliver Wyman Impact Case Competition | Team OWesome)
 
-<img align="left" width="250" height="150" src="https://ck-obsidian.oss-cn-hangzhou.aliyuncs.com/20240812165158.png"> **[Five-Year Growth Strategy for Banbao](https://github.com/archd3sai/Predicting-GDP-of-India)**
+<img align="left" width="300" height="180" src="https://ck-obsidian.oss-cn-hangzhou.aliyuncs.com/20240812165158.png"> **[Five-Year Growth Strategy for Banbao](https://github.com/archd3sai/Predicting-GDP-of-India)**
 
-赛题要求为中国积木玩具行业的领先企业制定收入增长战略。该企业在拥有20年运营经验的基础上，面临来自全球巨头和本地新兴竞争者的激烈竞争。我们选取邦宝积木作为客户公司，对积木玩具行业和龙头进行全方位的研究和对标分析，得出行业规模增速及驱动力、竞争格局、KSF和发展趋势；通过问卷调查获得一手消费者数据，提炼不同人群消费者画像和KPC，聚类目前主要客群和潜在目标客群；最终进行战略设计，对标头部品牌制定全渠道战略和门店选址方案，结合案例研究设计新产品和爆款营销策略、市场推广策略等。
+中国积木玩具行业的领先企业面临来自全球巨头和本地新兴玩家的激烈竞争，赛题要求制定收入增长战略。我们选取邦宝积木作为客户公司，对行业和龙头进行全方位的研究和对标分析，得出行业规模增速及驱动力、竞争格局、KSF和发展趋势；通过问卷调查获得一手消费者数据，提炼不同消费人群画像和KPC，聚类主要客群和潜在目标客群；最终进行战略设计，对标头部品牌制定全渠道战略和门店选址方案，结合案例研究设计新产品和爆款营销策略、市场推广策略等。
 
 
 <br />
@@ -85,7 +85,7 @@ A hybrid-filtering personalized news articles recommendation system which can su
 
 <img align="left" width="250" height="150" src="https://ck-obsidian.oss-cn-hangzhou.aliyuncs.com/20240812165054.png"> **[Carbon neutralization strategy for TNC in Dairy Industry](https://github.com/archd3sai/Predicting-GDP-of-India)**
 
-当前畜牧业正面临甲烷排放等碳中和挑战。根据巴黎协议，碳中和共识逐渐形成，但仍存在显著难题。环保NGO的首席战略官提出，希望通过试点推进可持续畜牧业实践，借鉴发达国家的减排措施，并探讨NGO在其中的作用。我们回答了关于选择关注的畜牧业子行业、碳中和痛点、优先试点的农场类型及关键减排措施等核心问题，并以充足的案头研究和数据分析和基础，为TNC这家NGO提供战略建议。
+当前畜牧业正面临甲烷排放等碳中和挑战。环保非营利组织(NGO)的首席战略官提出，希望通过试点推进可持续畜牧业实践，借鉴发达国家的减排措施，并探讨NGO在其中的作用。我们回答了关于选择关注的畜牧业子行业、碳中和痛点、优先试点的农场类型及关键减排措施等核心问题，并以充足的案头研究和数据分析和基础，为TNC这家NGO提供战略建议。
 
 <br />
 
