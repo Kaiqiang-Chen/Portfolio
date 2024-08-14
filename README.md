@@ -87,6 +87,7 @@ This Portfolio is a compilation of all the projects I have done for academic, se
 <img align="left" width="250" height="150" src="https://raw.githubusercontent.com/Kaiqiang-Chen/images/main/portfolio/20240814133802.png"> **[贝恩联合中国连锁经营协会：2023中国生鲜快消品零售业态发展趋势研究报告 [07/2023 - 10/2023]](https://www.bain.cn/news_info.php?id=1751)**
 
 共参与制作 ~10 页报告：研究国内 8 大零售业态现状，并参考西方硬折扣店发展历程判断未来趋势；提出商超门店集中度与利润率正相关的假设，通过年报等搜集数据，并进行回归分析验证假设，建议零售商在核心区域高密度布局发挥规模优势等。
+
 <br />
 
 ### 2. 明天美好咨询服务公司 (ABC美好社会咨询社) 某国际高校数字化咨询项目
