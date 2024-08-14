@@ -74,9 +74,9 @@ A hybrid-filtering personalized news articles recommendation system which can su
 
 ### 1. Five-Year Growth Strategy for Banbao (2023 Oliver Wyman Impact Case Competition | Team OWesome)
 
-<img align="left" width="300" height="180" src="https://ck-obsidian.oss-cn-hangzhou.aliyuncs.com/20240812165158.png"> **[Five-Year Growth Strategy for Banbao](https://github.com/archd3sai/Predicting-GDP-of-India)**
+<img align="left" width="250" height="200" src="https://ck-obsidian.oss-cn-hangzhou.aliyuncs.com/20240812165158.png"> **[Five-Year Growth Strategy for Banbao](https://github.com/archd3sai/Predicting-GDP-of-India)**
 
-中国积木玩具行业的领先企业面临来自全球巨头和本地新兴玩家的激烈竞争，赛题要求制定收入增长战略。我们选取邦宝积木作为客户公司，对行业和龙头进行全方位的研究和对标分析，得出行业规模增速及驱动力、竞争格局、KSF和发展趋势；通过问卷调查获得一手消费者数据，提炼不同消费人群画像和KPC，聚类主要客群和潜在目标客群；最终进行战略设计，对标头部品牌制定全渠道战略和门店选址方案，结合案例研究设计新产品和爆款营销策略、市场推广策略等。
+中国积木玩具行业的领先企业面临来自全球巨头和本地新兴玩家的激烈竞争。我们选取邦宝作为客户公司，为其制定收入增长战略。我们通过全方位的行业研究得出行业规模增速及驱动力、竞争格局、KSF和发展趋势；通过问卷调查获得一手消费者数据，聚类不同客群，提炼消费人群画像和KPC；最终设计战略，对标头部制定全渠道战略和门店选址方案，结合案例研究设计新产品和爆款营销策略等。
 
 
 <br />
