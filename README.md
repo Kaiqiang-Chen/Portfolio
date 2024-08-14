@@ -4,7 +4,7 @@
 
 This Portfolio is a compilation of all the projects I have done for academic, self-learning and hobby purposes, covering various fields incl. **Data Science & Data Analysis**, **Product Management** and **Consulting**. This portfolio also contains my Achievements, skills, and certificates. It is updated on the regular basis.
 
-**[CONTACTS]**
+**联系方式 [CONTACTS]**
 
 - **Email**: [kaiqiang.chen@outlook.com](kaiqiang.chen@outlook.com)
 - **LinkedIn**: [www.linkedin.com/in/kenneth-kaiqiang-chen](https://www.linkedin.com/in/kenneth-kaiqiang-chen)
