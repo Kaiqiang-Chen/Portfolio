@@ -89,14 +89,20 @@ This Portfolio is a compilation of all the projects I have done for academic, se
 共参与制作 ~10 页报告：研究国内 8 大零售业态现状，并参考西方硬折扣店发展历程判断未来趋势；提出商超门店集中度与利润率正相关的假设，通过年报等搜集数据，并进行回归分析验证假设，建议零售商在核心区域高密度布局发挥规模优势等。
 <br />
 
-### 2. 2023 奥玮咨询商赛报告（队长）
+### 2. 明天美好咨询服务公司 (ABC美好社会咨询社) 某国际高校数字化咨询项目
+
+<img align="left" width="250" height="150" src="https://ck-obsidian.oss-cn-hangzhou.aliyuncs.com/20240814192324.png"> 
+
+担任正式数字化咨询师，为国际高校人事部推进数字化，通过访谈调研梳理场景、痛点，针对人事部难以客观量化评估薪酬绩效的痛点，设计广义模糊决策树 (FPT) 机器学习解决方案来客观确定计算模型，并分析输出指标业务价值，获得校长高度认可。项目组被评为ABC优秀项目组，个人获得优秀PC荣誉。（报告因客户隐私不便公开）
+
+### 3. 2023 奥玮咨询商赛报告（队长）
 
 <img align="left" width="250" height="150" src="https://ck-obsidian.oss-cn-hangzhou.aliyuncs.com/20240812165158.png"> **[Five-Year Growth Strategy for Banbao | Team OWesome [04/2023]](https://github.com/Kaiqiang-Chen/Portfolio/blob/2adf7d4a0cdb6707b5b3972c952422266ff42150/03_Consulting%20Reports/5-Year%20Strategy%20for%20Banbao_Team%20OWesome%20Final_Captain_Kaiqiang%20Chen.pdf)**
 
 中国积木玩具行业的领先企业正面临来自全球巨头和本地新兴玩家的激烈竞争。我们为客户制定收入增长战略。通过行业研究得出行业规模增速及驱动力、竞争格局、KSF和发展趋势；通过问卷调查获得一手消费者数据，聚类不同客群，提炼消费人群画像和KPC；最终设计战略，对标头部品牌制定全渠道战略和门店选址方案，并结合案例研究设计新产品和爆款营销策略等。
 <br />
 
-### 3. 2023 贝恩杯咨询商赛报告 
+### 4. 2023 贝恩杯咨询商赛报告 
 <img align="left" width="250" height="150" src="https://ck-obsidian.oss-cn-hangzhou.aliyuncs.com/20240812165054.png"> **[Carbon neutralization strategy for TNC in Dairy Industry | Team XiaoBaoBain, 05/2023](https://github.com/Kaiqiang-Chen/Portfolio/blob/2adf7d4a0cdb6707b5b3972c952422266ff42150/03_Consulting%20Reports/Carbon%20neutralization%20strategy%20for%20TNC%20Industry_Team%20XiaoBaoBain.pdf)**
 
 当前畜牧业正面临甲烷排放等碳中和挑战。环保非营利组织(NGO)首席战略官提出，希望通过试点推进可持续畜牧业实践，借鉴发达国家减排措施，并探讨NGO在其中的作用。我们回答了关于选择关注的畜牧业子行业、碳中和痛点、优先试点的农场类型及关键减排措施等核心问题，向TNC(NGO) 提供战略建议。
@@ -106,6 +112,11 @@ This Portfolio is a compilation of all the projects I have done for academic, se
 
 ## V. 核心技能 Core Competencies
 
-- **Methodologies**: Machine Learning, Statistics, Big Data Analytics, Causal Inference(Econometrics), Bayesian Statistics (MCMC), Data Structure and Algorithm, Operation Research
-- **Languages**: Python (Proficient, EDA[Numpy, Pandas, Matplotlib, Seaborn] / ML[sklearn] / Scrawling [request, re, selenium, xpath] / Optimization [Gurobipy]), SQL(Proficient[partition, ETL]), R(Proficient[Dplyr, Tidyr, ggplot2,mlr3]), Java, C++
-- **Tools**: MySQL, Tableau, PowerBI, Quicksight, Git, Amazon Web Services (AWS), MS Office (Thinkcell)
+-	代码能力：Python (熟练，EDA[Numpy, Pandas, Matplotlib] / 机器学习[sklearn] / 爬虫[request, re, selenium] / 规划求解[Gurobipy]), SQL (熟练，窗口函数，数仓ETL), R (熟练，Dplyr, Tidyr, ggplot2,mlr3), Java, C++, Git
+-	数理能力：数据结构、元启发式算法、贝叶斯统计 (MCMC)、运筹学、离散数学、机器学习、概率统计 (SPSS)、因果推断/计量 (Stata) 
+-	其他技能：英语(GRE:325/340 + W4); Tableau/Tableau; AWS; AARRR/RFM/漏斗等业务分析模型；MS Office (Thinkcell); Figma, Canvas
+
+- **Methodologies**: Machine Learning, Statistics, Big Data Analytics, Causal Inference (Econometrics), Bayesian Statistics (MCMC), Data Structure and Algorithm, Operation Research
+- **Languages**: Python (Proficient, EDA[Numpy, Pandas, Matplotlib] / ML[sklearn] / Scrawling [request, re, selenium, xpath] / Optimization [Gurobipy]), SQL(Proficient[partition, ETL]), R(Proficient[Dplyr, Tidyr, ggplot2,mlr3]), Java, C++
+- **Tools**: MySQL, Tableau, PowerBI, Quicksight, Git, Amazon Web Services (AWS), SPSS, MS Office (Thinkcell), Figma, Canvas
+- **Others**: English(GRE:325/340 + W4)
