@@ -124,4 +124,4 @@ This Portfolio is a compilation of all the projects I have done for academic, se
 - **Methodologies**: Machine Learning, Statistics, Big Data Analytics, Causal Inference (Econometrics), Bayesian Statistics (MCMC), Data Structure and Algorithm, Operation Research
 - **Languages**: Python (Proficient, EDA[Numpy, Pandas, Matplotlib] / ML[sklearn] / Scrawling [request, re, selenium, xpath] / Optimization [Gurobipy]), SQL(Proficient[partition, ETL]), R(Proficient[Dplyr, Tidyr, ggplot2,mlr3]), Java, C++
 - **Tools**: MySQL, Tableau, PowerBI, Quicksight, Git, Amazon Web Services (AWS), SPSS, MS Office (Thinkcell), Figma, Canvas
-- **Others**: English(GRE:325/340 + W4)
+- **Others**: English (GRE:325/340 + W4)
