@@ -21,7 +21,9 @@ This Portfolio is a compilation of all the projects I have done for academic, se
 
 ### 1. 数据清洗、探索与可视化 Data Manipulation and EDA
 
-**[Superstore Sales Performance Dashboard](https://public.tableau.com/views/SalesPerformanceDashboard_17224722585070/sheet0?:language=zh-CN&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link "Lick to open the dashboard website")**
+<img align="left" width="250" height="150" src="https://ck-obsidian.oss-cn-hangzhou.aliyuncs.com/20240801093529.png"> **[中国上市公司的分布与疫情下发展状况的探究——对 A 股 3000 余家上市公司的数据探索与机器学习 [12/2023] [R]](https://public.tableau.com/views/SalesPerformanceDashboard_17224722585070/sheet0?:language=zh-CN&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+出于对疫情背景下不同企业发展情况的好奇，从上市公司数据着手，利用Tushare API接口获取财务数据，通过柱状图、玫瑰图、散点图、箱线图等多种类型图表探究上市公司分布特征以及疫情对不同行业的影响，通过PCA、SOM、K-Means等非监督机器学习方法进行降维与聚类。
 
 <br />
 
@@ -29,13 +31,13 @@ This Portfolio is a compilation of all the projects I have done for academic, se
 
 <img align="left" width="250" height="150" src="https://ck-obsidian.oss-cn-hangzhou.aliyuncs.com/20240801093529.png"> **[Superstore Sales Performance Dashboard](https://public.tableau.com/views/SalesPerformanceDashboard_17224722585070/sheet0?:language=zh-CN&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link "Lick to open the dashboard website")**
 
-xx
+利用美国商超零售数据制作可视化、可交互数据看板，呈现不同年份分地区、分州（包括每个州Top5城市）、分品类、分子品类以及渠道的销售数据和趋势，轻松并可通过点击不同组件实现全局筛选器，能够轻松监控业绩表现并归因。
 
 <br />
 
 ### 3. 机器学习 Machine Learning
 
-<img align="left" width="250" height="150" src="https://ck-obsidian.oss-cn-hangzhou.aliyuncs.com/20240812164456.png"> **[Kaggle | House Prices - Advanced Regression Techniques](https://github.com/Kaiqiang-Chen/Portfolio/blob/878769faa1fef4dae7661c2e0ee516bfa9f0ebd7/Data%20Science%20%26%20Data%20Analysis/Dashboard%20Building%20with%20Tableau/Readme_Dashboard.md)**
+<img align="left" width="250" height="150" src="https://ck-obsidian.oss-cn-hangzhou.aliyuncs.com/20240812164456.png"> **[Kaggle | House Prices - Advanced Regression Techniques [05/2024] [Python]](https://github.com/Kaiqiang-Chen/Portfolio/tree/2adf7d4a0cdb6707b5b3972c952422266ff42150/01_Data%20Science%20%26%20Data%20Analysis/2.%20Machine%20Learning/Supervised%20ML%20-%20House%20Pricing)**
 
 利用Kaggle数据集，通过81个变量、1400+样本对爱荷华州的房屋价格进行预测。首先进行特征工程，对缺失值异常值进行处理；利用seaborn绘制热力图，洞察变量相关性，挖掘与目标函数高度相关的特征；利用LabelEncoder和one-hot编码将部分类别型特征转化为数值型特征等。然后调用XGboost、KNN、SVM等8种ML模型预测并进行Stacking集成，最终排名可进入Top 2%。
 
@@ -47,7 +49,7 @@ xx
 
 #### A/B实验：互动广告是否能提高用户转化率？
 
-<img align="left" width="250" height="150" src="https://ck-obsidian.oss-cn-hangzhou.aliyuncs.com/20240812164954.png"> **[Interactive Ads and User Conversion Rates: An A/B Test](https://github.com/archd3sai/News-Articles-Recommendation)**
+<img align="left" width="250" height="150" src="https://ck-obsidian.oss-cn-hangzhou.aliyuncs.com/20240812164954.png"> **[Interactive Ads and User Conversion Rates: An A/B Test](https://github.com/Kaiqiang-Chen/Portfolio/tree/2adf7d4a0cdb6707b5b3972c952422266ff42150/01_Data%20Science%20%26%20Data%20Analysis/4.%20Causal%20Inference%20%26%20AB%20Testing/AB%20Test%20-%20Advertising/Interactive%20Ads%20and%20User%20Conversion%20Rates%20-%20%20An%20AB%20Test)**
 
 A hybrid-filtering personalized news articles recommendation system which can suggest articles from popular news service providers based on reading history of twitter users who share similar interests (Collaborative filtering) and content similarity of the article and user’s tweets (Content-based filtering).
 <br />
