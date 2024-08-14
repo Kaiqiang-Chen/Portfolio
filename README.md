@@ -50,9 +50,9 @@ This Portfolio is a compilation of all the projects I have done for academic, se
 
 <br />
 
-<img align="left" width="250" height="150" src="https://ck-obsidian.oss-cn-hangzhou.aliyuncs.com/20240812164954.png"> **[A/B实验：互动广告是否能提高用户转化率？ [06/2024] [Tableau]](https://github.com/Kaiqiang-Chen/Portfolio/tree/2adf7d4a0cdb6707b5b3972c952422266ff42150/01_Data%20Science%20%26%20Data%20Analysis/4.%20Causal%20Inference%20%26%20AB%20Testing/AB%20Test%20-%20Advertising/Interactive%20Ads%20and%20User%20Conversion%20Rates%20-%20%20An%20AB%20Test)**
+<img align="left" width="250" height="150" src="https://ck-obsidian.oss-cn-hangzhou.aliyuncs.com/20240812164954.png"> **[A/B实验：互动广告是否能提高用户转化率？ [06/2024] [Python]](https://github.com/Kaiqiang-Chen/Portfolio/tree/2adf7d4a0cdb6707b5b3972c952422266ff42150/01_Data%20Science%20%26%20Data%20Analysis/4.%20Causal%20Inference%20%26%20AB%20Testing/AB%20Test%20-%20Advertising/Interactive%20Ads%20and%20User%20Conversion%20Rates%20-%20%20An%20AB%20Test)**
 
-A hybrid-filtering personalized news articles recommendation system which can suggest articles from popular news service providers based on reading history of twitter users who share similar interests (Collaborative filtering) and content similarity of the article and user’s tweets (Content-based filtering).
+设计并实施互动广告与静态广告对比的A/B测试，目标为提升用户转化率。通过精确计算样本量和严格的假设检验，确保了实验的科学性。实验结果显示互动广告的转化率与静态广告无显著差异，未能拒绝原假设，能够帮助公司有效避免不必要的广告投入。
 
 <br />
 
@@ -76,7 +76,7 @@ A hybrid-filtering personalized news articles recommendation system which can su
 
 <img align="left" width="250" height="150" src="https://raw.githubusercontent.com/Kaiqiang-Chen/images/main/portfolio/20240814134150.png"> **[PropriskAI - One-Stop Real Estate Risk Information Service [01/2024-05/2024] [Python, Figma, Drawio]](https://github.com/Kaiqiang-Chen/Portfolio/tree/2adf7d4a0cdb6707b5b3972c952422266ff42150/02_Product%20Management/PropriskAI%E2%80%94%E2%80%94%E4%B8%80%E7%AB%99%E5%BC%8F%E6%88%BF%E5%9C%B0%E4%BA%A7%E9%A3%8E%E9%99%A9%E4%BF%A1%E6%81%AF%E6%9C%8D%E5%8A%A1%E5%85%A8%E8%A7%86%E7%95%8CAI)**
 
-近期某些房地产公司发生债券违约，流动性危机爆发，上游供应商的应收账款也面临账期延长，但房地产风险信息分散、难以获得，极大影响上游供应商和投资者的决策。我们利用AI数据挖掘以及随机森林、神经网络等机器学习算法，解决信息分散、非结构化等痛点，自主构建数据集并提出客观评估房地产企业流动性危机影响范围和规模的模型，搭建了一站式房地产风险全视域AI——PropriskAI。
+近期某些房地产公司发生债券违约，流动性危机爆发，上游供应商的应收账款也面临账期延长，但房地产风险信息分散、难以获得，极大影响上游供应商和投资者的决策。我们利用AI数据挖掘以及机器学习算法，解决信息分散、非结构化等痛点，自主构建数据集和客观评估风险影响范围和规模的模型，搭建了一站式房地产风险全视域AI——PropriskAI。
 
 <br />
 
