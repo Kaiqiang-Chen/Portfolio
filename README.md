@@ -76,7 +76,7 @@ This Portfolio is a compilation of all the projects I have done for academic, se
 
 <img align="left" width="250" height="150" src="https://raw.githubusercontent.com/Kaiqiang-Chen/images/main/portfolio/20240814134150.png"> **[PropriskAI - One-Stop Real Estate Risk Information Service [01/2024-05/2024] [Python, Figma, Drawio]](https://github.com/Kaiqiang-Chen/Portfolio/tree/2adf7d4a0cdb6707b5b3972c952422266ff42150/02_Product%20Management/PropriskAI%E2%80%94%E2%80%94%E4%B8%80%E7%AB%99%E5%BC%8F%E6%88%BF%E5%9C%B0%E4%BA%A7%E9%A3%8E%E9%99%A9%E4%BF%A1%E6%81%AF%E6%9C%8D%E5%8A%A1%E5%85%A8%E8%A7%86%E7%95%8CAI)**
 
-近期某些房地产公司发生债券违约，流动性危机爆发，上游供应商的应收账款也面临账期延长，但房地产风险信息分散、难以获得，极大影响上游供应商和投资者的决策。我们利用AI数据挖掘以及机器学习算法，解决信息分散、非结构化等痛点，自主构建数据集和客观评估风险影响范围和规模的模型，搭建了一站式房地产风险全视域AI——PropriskAI。
+近期某些房地产公司发生债券违约，流动性危机爆发，上游供应商的应收账款也面临账期延长，但房地产风险信息分散、难以获得，极大影响上游供应商和投资者的决策。我们利用AI数据挖掘以及机器学习算法，解决信息分散、非结构化等痛点，自主构建数据集和模型，搭建了一站式房地产风险全视域AI——PropriskAI。
 
 <br />
 
