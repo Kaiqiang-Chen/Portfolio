@@ -58,7 +58,7 @@ This Portfolio is a compilation of all the projects I have done for academic, se
 
 ### 5. 数据建模 Data Modeling
 
-<img align="left" width="250" height="150" src="https://ck-obsidian.oss-cn-hangzhou.aliyuncs.com/20240812164338.png">  **[Weather the Storm: Mastering Insurance &amp; Site Selection [01/2024] [Python]](https://github.com/archd3sai/News-Articles-Recommendation)**
+<img align="left" width="250" height="150" src="https://ck-obsidian.oss-cn-hangzhou.aliyuncs.com/20240812164338.png">  **[Weather the Storm: Mastering Insurance &amp; Site Selection [01/2024] [Python]](https://github.com/Kaiqiang-Chen/Portfolio/tree/16e16a977d3af3dd40fb87d85d986752f8e718a8/01_Data%20Science%20%26%20Data%20Analysis/5.%20Data%20Modeling)**
 
 全球各地极端气候不断增多，保险公司对极端气候地区房产承保风险变大，面临是否要减少承保的决策。我们通过ARIMA预测极端天气，利用EWM-TOPSIS评估保险风险，并提出地标保护建议，帮助保险公司决策及业主评估选址，优化风险管理与决策。
 
