@@ -95,6 +95,8 @@ This Portfolio is a compilation of all the projects I have done for academic, se
 
 担任正式数字化咨询师，为国际高校人事部推进数字化，通过访谈调研梳理场景、痛点，针对人事部难以客观量化评估薪酬绩效的痛点，设计广义模糊决策树 (FPT) 机器学习解决方案来客观确定计算模型，并分析输出指标业务价值，获得校长高度认可。项目组被评为ABC优秀项目组，个人获得优秀PC荣誉。（报告因客户隐私不便公开）
 
+<br />
+
 ### 3. 2023 奥玮咨询商赛报告（队长）
 
 <img align="left" width="250" height="150" src="https://ck-obsidian.oss-cn-hangzhou.aliyuncs.com/20240812165158.png"> **[Five-Year Growth Strategy for Banbao | Team OWesome [04/2023]](https://github.com/Kaiqiang-Chen/Portfolio/blob/2adf7d4a0cdb6707b5b3972c952422266ff42150/03_Consulting%20Reports/5-Year%20Strategy%20for%20Banbao_Team%20OWesome%20Final_Captain_Kaiqiang%20Chen.pdf)**
