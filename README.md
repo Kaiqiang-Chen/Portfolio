@@ -2,7 +2,7 @@
 
 这份作品集汇集了我在实践、学术和自由探索完成的一些项目，涵盖了**数据科学与数据分析**、**产品设计**和**咨询**等多个领域。也涵盖我的成就、技能等。将不定期更新。
 
-This Portfolio is a compilation of all the projects I have done for academic, self-learning and hobby purposes, covering various fields incl. **Data Science & Data Analysis**, **Product Management** and **Coonsulting**. This portfolio also contains my Achievements, skills, and certificates. It is updated on the regular basis.
+This Portfolio is a compilation of all the projects I have done for academic, self-learning and hobby purposes, covering various fields incl. **Data Science & Data Analysis**, **Product Management** and **Consulting**. This portfolio also contains my Achievements, skills, and certificates. It is updated on the regular basis.
 
 **[CONTACTS]**
 
