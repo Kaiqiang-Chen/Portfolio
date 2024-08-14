@@ -64,7 +64,7 @@ A hybrid-filtering personalized news articles recommendation system which can su
 
 ## III. Product Management
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/960x0.jpg"> **[PropriskAI - One-Stop Real Estate Risk Informa Service](https://github.com/archd3sai/Wind-Turbine-Power-Curve-Estimation)**
+<img align="left" width="300" height="200" src="https://github.com/archd3sai/Portfolio/blob/master/Images/960x0.jpg"> **[PropriskAI - One-Stop Real Estate Risk Informa Service](https://github.com/archd3sai/Wind-Turbine-Power-Curve-Estimation)**
 
 近期某些房地产公司发生债券违约事件，流动性危机频发，上游供应商的应收账款也会面临账期延长，但关于房地产的风险信息的分散、难以获得，极大影响上游供应商和投资者的风险决策。我们利用AI数据挖掘以及随机森林、XGBoost和神经网络等机器学习算法，解决信息分散、非结构化等痛点，自主构建数据集并提出客观评估房地产企业流动性危机影响范围和规模的模型和方法，搭建了一站式房地产风险全视域AI——PropriskAI。
 
@@ -74,16 +74,16 @@ A hybrid-filtering personalized news articles recommendation system which can su
 
 ### 1. Five-Year Growth Strategy for Banbao (2023 Oliver Wyman Impact Case Competition | Team OWesome)
 
-<img align="left" width="250" height="200" src="https://ck-obsidian.oss-cn-hangzhou.aliyuncs.com/20240812165158.png"> **[Five-Year Growth Strategy for Banbao](https://github.com/archd3sai/Predicting-GDP-of-India)**
+<img align="left" width="30" height="200" src="https://ck-obsidian.oss-cn-hangzhou.aliyuncs.com/20240812165158.png"> **[Five-Year Growth Strategy for Banbao](https://github.com/archd3sai/Predicting-GDP-of-India)**
 
-中国积木玩具行业的领先企业面临来自全球巨头和本地新兴玩家的激烈竞争。我们选取邦宝作为客户公司，为其制定收入增长战略。我们通过全方位的行业研究得出行业规模增速及驱动力、竞争格局、KSF和发展趋势；通过问卷调查获得一手消费者数据，聚类不同客群，提炼消费人群画像和KPC；最终设计战略，对标头部制定全渠道战略和门店选址方案，结合案例研究设计新产品和爆款营销策略等。
+中国积木玩具行业的领先企业正面临来自全球巨头和本地新兴玩家的激烈竞争。我们选取邦宝作为客户公司，为其制定收入增长战略。我们通过全方位的行业研究得出行业规模增速及驱动力、竞争格局、KSF和发展趋势；通过问卷调查获得一手消费者数据，聚类不同客群，提炼消费人群画像和KPC；最终设计战略，对标头部品牌制定全渠道战略和门店选址方案，并结合案例研究设计新产品和爆款营销策略等。
 
 
 <br />
 
 ### 2. Carbon neutralization strategy for TNC in Dairy Industry (2023 Bain Case Competition | Team XiaoBaoBain)
 
-<img align="left" width="250" height="150" src="https://ck-obsidian.oss-cn-hangzhou.aliyuncs.com/20240812165054.png"> **[Carbon neutralization strategy for TNC in Dairy Industry](https://github.com/archd3sai/Predicting-GDP-of-India)**
+<img align="left" width="300" height="200" src="https://ck-obsidian.oss-cn-hangzhou.aliyuncs.com/20240812165054.png"> **[Carbon neutralization strategy for TNC in Dairy Industry](https://github.com/archd3sai/Predicting-GDP-of-India)**
 
 当前畜牧业正面临甲烷排放等碳中和挑战。环保非营利组织(NGO)的首席战略官提出，希望通过试点推进可持续畜牧业实践，借鉴发达国家的减排措施，并探讨NGO在其中的作用。我们回答了关于选择关注的畜牧业子行业、碳中和痛点、优先试点的农场类型及关键减排措施等核心问题，并以充足的案头研究和数据分析和基础，为TNC这家NGO提供战略建议。
 
