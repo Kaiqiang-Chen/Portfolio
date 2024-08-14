@@ -40,7 +40,6 @@ This Portfolio is a compilation of all the projects I have done for academic, se
 <img align="left" width="250" height="150" src="https://ck-obsidian.oss-cn-hangzhou.aliyuncs.com/20240812164456.png"> **[Kaggle | House Prices - Advanced Regression Techniques [05/2024] [Python]](https://github.com/Kaiqiang-Chen/Portfolio/tree/2adf7d4a0cdb6707b5b3972c952422266ff42150/01_Data%20Science%20%26%20Data%20Analysis/2.%20Machine%20Learning/Supervised%20ML%20-%20House%20Pricing)**
 
 利用Kaggle数据集，通过81个变量、1400+样本对爱荷华州的房屋价格进行预测。首先进行特征工程，对缺失值异常值进行处理；利用seaborn绘制热力图，洞察变量相关性，挖掘与目标函数高度相关的特征；利用LabelEncoder和one-hot编码将部分类别型特征转化为数值型特征等。然后调用XGboost、KNN、SVM等8种ML模型预测并进行Stacking集成，最终排名可进入Top 2%。
-
 <br />
 
 ### 4. 因果推断与A/B实验 Causal Inference and A/B Test
@@ -89,13 +88,13 @@ A hybrid-filtering personalized news articles recommendation system which can su
 
 共参与制作 ~10 页报告：研究国内 8 大零售业态现状，并参考西方硬折扣店发展历程判断未来趋势；提出商超门店集中度与利润率正相关的假设，通过年报等搜集数据，并进行回归分析验证假设，建议零售商在核心区域高密度布局发挥规模优势等。
 
+<br />
 
 ### 2. 2023 奥玮咨询商赛报告（队长）
 
 <img align="left" width="250" height="150" src="https://ck-obsidian.oss-cn-hangzhou.aliyuncs.com/20240812165158.png"> **[Five-Year Growth Strategy for Banbao | Team OWesome [04/2023]](https://github.com/Kaiqiang-Chen/Portfolio/blob/2adf7d4a0cdb6707b5b3972c952422266ff42150/03_Consulting%20Reports/5-Year%20Strategy%20for%20Banbao_Team%20OWesome%20Final_Captain_Kaiqiang%20Chen.pdf)**
 
 中国积木玩具行业的领先企业正面临来自全球巨头和本地新兴玩家的激烈竞争。我们为客户制定收入增长战略。通过行业研究得出行业规模增速及驱动力、竞争格局、KSF和发展趋势；通过问卷调查获得一手消费者数据，聚类不同客群，提炼消费人群画像和KPC；最终设计战略，对标头部品牌制定全渠道战略和门店选址方案，并结合案例研究设计新产品和爆款营销策略等。
-
 
 <br />
 
