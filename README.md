@@ -29,7 +29,7 @@ This Portfolio is a compilation of all the projects I have done for academic, se
 
 ### 2. 制作数据看板 (Tableau) Dashboard Building with Tableau
 
-<img align="left" width="250" height="150" src="https://ck-obsidian.oss-cn-hangzhou.aliyuncs.com/Superstore.jpg"> **[Superstore Sales Performance Dashboard [08/2024] [Tableau]](https://public.tableau.com/views/SalesPerformanceDashboard_17224722585070/sheet0?:language=zh-CN&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link "Lick to open the dashboard website")**
+<img align="left" width="250" height="150" src="https://ck-obsidian.oss-cn-hangzhou.aliyuncs.com/Superstore.jpg"> **[美国商超业绩数据看板 [08/2024] [Tableau]](https://public.tableau.com/views/SalesPerformanceDashboard_17224722585070/sheet0?:language=zh-CN&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link "Lick to open the dashboard website")**
 
 利用美国商超零售数据制作可视化、可交互数据看板，呈现不同年份分地区、分州（包括每个州Top5城市）、分品类、分子品类以及渠道的销售数据和趋势，轻松并可通过点击不同组件实现全局筛选器，能够轻松监控业绩表现并归因。
 
@@ -60,7 +60,7 @@ This Portfolio is a compilation of all the projects I have done for academic, se
 
 <img align="left" width="250" height="150" src="https://ck-obsidian.oss-cn-hangzhou.aliyuncs.com/20240812164338.png">  **[Weather the Storm: Mastering Insurance &amp; Site Selection [01/2024] [Python]](https://github.com/Kaiqiang-Chen/Portfolio/tree/16e16a977d3af3dd40fb87d85d986752f8e718a8/01_Data%20Science%20%26%20Data%20Analysis/5.%20Data%20Modeling)**
 
-全球各地极端气候不断增多，保险公司对极端气候地区房产承保风险变大，面临是否要减少承保的决策。我们通过ARIMA预测极端天气，利用EWM-TOPSIS评估保险风险，并提出地标保护建议，帮助保险公司决策及业主评估选址，优化风险管理与决策。
+全球各地极端气候不断增多，保险公司对极端气候地区房产承保风险变大，面临是否要减少承保的决策。我们通过ARIMA预测极端天气，利用EWM-TOPSIS评估保险风险，并提出地标保护建议，帮助保险公司决策及业主评估选址，优化风险管理与决策。报告最终获得**美赛M奖**，排名前Top 7%。
 
 <br />
 
@@ -74,9 +74,9 @@ This Portfolio is a compilation of all the projects I have done for academic, se
 
 ## III. 产品设计 Product Management
 
-<img align="left" width="250" height="150" src="https://raw.githubusercontent.com/Kaiqiang-Chen/images/main/portfolio/20240814134150.png"> **[PropriskAI - One-Stop Real Estate Risk Information Service [01/2024-05/2024] [Python, Figma, Draw.io]](https://github.com/Kaiqiang-Chen/Portfolio/tree/2adf7d4a0cdb6707b5b3972c952422266ff42150/02_Product%20Management/PropriskAI%E2%80%94%E2%80%94%E4%B8%80%E7%AB%99%E5%BC%8F%E6%88%BF%E5%9C%B0%E4%BA%A7%E9%A3%8E%E9%99%A9%E4%BF%A1%E6%81%AF%E6%9C%8D%E5%8A%A1%E5%85%A8%E8%A7%86%E7%95%8CAI)**
+<img align="left" width="250" height="150" src="https://raw.githubusercontent.com/Kaiqiang-Chen/images/main/portfolio/20240814134150.png"> **[PropriskAI-一站式房地产风险信息全视域 AI [01/2024-05/2024] [Python, Figma, Draw.io]](https://github.com/Kaiqiang-Chen/Portfolio/tree/2adf7d4a0cdb6707b5b3972c952422266ff42150/02_Product%20Management/PropriskAI%E2%80%94%E2%80%94%E4%B8%80%E7%AB%99%E5%BC%8F%E6%88%BF%E5%9C%B0%E4%BA%A7%E9%A3%8E%E9%99%A9%E4%BF%A1%E6%81%AF%E6%9C%8D%E5%8A%A1%E5%85%A8%E8%A7%86%E7%95%8CAI)**
 
-近期某些房地产公司发生债券违约，流动性危机爆发，上游供应商的应收账款也面临账期延长，但房地产风险信息分散难以获得，极大影响上游供应商和投资者的决策。我们利用AI数据挖掘以及机器学习算法，解决信息分散、非结构化等痛点，自主构建数据集和模型，搭建了一站式房地产风险信息服务平台 PropriskAI。
+近期某些房地产公司发生债券违约，流动性危机爆发，上游供应商的应收账款也面临账期延长，但房地产风险信息分散难以获得，极大影响上游供应商和投资者决策。我们利用AI数据挖掘和机器学习算法，解决信息分散、非结构化等痛点，自主构建数据集和模型，在极短时间内完成这款AI产品，荣获花旗杯金融创新应用大赛**全国二等奖**。
 
 <br />
 
