@@ -92,9 +92,10 @@ This Portfolio is a compilation of all the projects I have done for academic, se
 
 ### 2. 明天美好咨询服务公司 (ABC美好社会咨询社) 某国际高校数字化咨询项目
 
-<img align="left" width="250" height="150" src="https://ck-obsidian.oss-cn-hangzhou.aliyuncs.com/20240814192324.png"> 
+<img align="left" width="250" height="150" src="https://ck-obsidian.oss-cn-hangzhou.aliyuncs.com/20240814192324.png"> **[（报告因客户隐私不便公开）]**
 
-担任正式数字化咨询师，为国际高校人事部推进数字化，通过访谈调研梳理场景、痛点，针对人事部难以客观量化评估薪酬绩效的痛点，设计广义模糊决策树 (FPT) 机器学习解决方案来客观确定计算模型，并分析输出指标业务价值，获得校长高度认可。项目组被评为ABC优秀项目组，个人获得优秀PC荣誉。（报告因客户隐私不便公开）
+担任正式数字化咨询师，为国际高校人事部推进数字化，通过访谈调研梳理场景、痛点，针对人事部难以客观量化评估薪酬绩效的痛点，设计广义模糊决策树 (FPT) 机器学习解决方案来客观确定计算模型，并分析输出指标业务价值，获得校长高度认可。项目组被评为ABC优秀项目组，个人获得优秀PC荣誉。
+
 
 <br />
 
