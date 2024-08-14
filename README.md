@@ -21,7 +21,7 @@ This Portfolio is a compilation of all the projects I have done for academic, se
 
 ### 1. 数据清洗、探索与可视化 Data Manipulation and EDA
 
-<img align="left" width="250" height="150" src="https://raw.githubusercontent.com/Kaiqiang-Chen/images/main/portfolio/20240801093529.png"> **[中国上市公司的分布与疫情下发展状况的探究——对 A 股 3000 余家上市公司的数据探索与机器学习 [12/2023] [R, Python]](https://public.tableau.com/views/SalesPerformanceDashboard_17224722585070/sheet0?:language=zh-CN&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+<img align="left" width="250" height="150" src="https://raw.githubusercontent.com/Kaiqiang-Chen/images/main/portfolio/20240814133515.png"> **[中国上市公司的分布与疫情下发展状况的探究——对 A 股 3000 余家上市公司的数据探索与机器学习 [12/2023] [R, Python]](https://github.com/Kaiqiang-Chen/Portfolio/tree/6bf1ae485af8bb6748b903f69a48cb696547488c/01_Data%20Science%20%26%20Data%20Analysis/1.%20Data%20Manipulation%20%26%20EDA/Stock%20Data%20Visualization%20and%20Exploration)**
 
 出于对疫情背景下不同企业发展情况的好奇，从上市公司数据着手，利用Tushare API接口获取财务数据，通过柱状图、玫瑰图、散点图、箱线图等多种类型图表探究上市公司分布特征以及疫情对不同行业的影响，通过PCA、SOM、K-Means等非监督机器学习方法进行降维与聚类。
 
@@ -46,19 +46,16 @@ This Portfolio is a compilation of all the projects I have done for academic, se
 
 ### 4. 因果推断与A/B实验 Causal Inference and A/B Test
 
-#### PSM-DID 政策效应研究论文复刻
-
-<img align="left" width="250" height="150" src="https://raw.githubusercontent.com/Kaiqiang-Chen/images/main/portfolio/httpsgithub.comarchd3saiPortfolioblobmasterImagesairplane.jpeg.png"> **[中国碳市场碳减排效应研究—基于市场机制与行政干预协同作用视角 [05/2024]](https://github.com/Kaiqiang-Chen/Portfolio/tree/2adf7d4a0cdb6707b5b3972c952422266ff42150/01_Data%20Science%20%26%20Data%20Analysis/6.%20Other%20Capstones/PSM-DID%E6%94%BF%E7%AD%96%E6%95%88%E5%BA%94%E7%A0%94%E7%A9%B6%E8%AE%BA%E6%96%87%E5%A4%8D%E5%88%BB)**
+<img align="left" width="250" height="150" src="https://raw.githubusercontent.com/Kaiqiang-Chen/images/main/portfolio/httpsgithub.comarchd3saiPortfolioblobmasterImagesairplane.jpeg.png"> **[PSM-DID 政策效应研究论文复刻 [05/2024]](https://github.com/Kaiqiang-Chen/Portfolio/tree/2adf7d4a0cdb6707b5b3972c952422266ff42150/01_Data%20Science%20%26%20Data%20Analysis/6.%20Other%20Capstones/PSM-DID%E6%94%BF%E7%AD%96%E6%95%88%E5%BA%94%E7%A0%94%E7%A9%B6%E8%AE%BA%E6%96%87%E5%A4%8D%E5%88%BB)**
 
 复刻了一篇关于全球变暖背景下中国碳市场碳减排效应的研究，基于市场机制与行政干预的协同作用视角，利用PSM-DID方法，检验了试点地区碳市场促进碳减排的理论机理与政策效果，包括平行趋势检验、安慰剂检验、PSM半径匹配/近邻匹配/核匹配/剔除其他政策以及特殊样本影响的稳健性分析，以及碳价、市场流动性和相对市场交易规模三个机制变量的传导机制分析。
 
 <br />
 
-#### A/B实验：互动广告是否能提高用户转化率？
-
-<img align="left" width="250" height="150" src="https://ck-obsidian.oss-cn-hangzhou.aliyuncs.com/20240812164954.png"> **[Interactive Ads and User Conversion Rates: An A/B Test [06/2024] [Tableau]](https://github.com/Kaiqiang-Chen/Portfolio/tree/2adf7d4a0cdb6707b5b3972c952422266ff42150/01_Data%20Science%20%26%20Data%20Analysis/4.%20Causal%20Inference%20%26%20AB%20Testing/AB%20Test%20-%20Advertising/Interactive%20Ads%20and%20User%20Conversion%20Rates%20-%20%20An%20AB%20Test)**
+<img align="left" width="250" height="150" src="https://ck-obsidian.oss-cn-hangzhou.aliyuncs.com/20240812164954.png"> **[A/B实验：互动广告是否能提高用户转化率？ [06/2024] [Tableau]](https://github.com/Kaiqiang-Chen/Portfolio/tree/2adf7d4a0cdb6707b5b3972c952422266ff42150/01_Data%20Science%20%26%20Data%20Analysis/4.%20Causal%20Inference%20%26%20AB%20Testing/AB%20Test%20-%20Advertising/Interactive%20Ads%20and%20User%20Conversion%20Rates%20-%20%20An%20AB%20Test)**
 
 A hybrid-filtering personalized news articles recommendation system which can suggest articles from popular news service providers based on reading history of twitter users who share similar interests (Collaborative filtering) and content similarity of the article and user’s tweets (Content-based filtering).
+
 <br />
 
 ### 5. 数据建模 Data Modeling
