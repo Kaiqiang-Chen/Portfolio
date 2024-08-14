@@ -21,7 +21,7 @@ This Portfolio is a compilation of all the projects I have done for academic, se
 
 ### 1. 数据清洗、探索与可视化 Data Manipulation and EDA
 
-<img align="left" width="250" height="150" src="https://raw.githubusercontent.com/Kaiqiang-Chen/images/main/portfolio/20240814133515.png"> **[中国上市公司的分布与疫情下发展状况的探究——对 A 股 3000 余家上市公司的数据探索与机器学习 [12/2023] [R, Python]](https://github.com/Kaiqiang-Chen/Portfolio/tree/6bf1ae485af8bb6748b903f69a48cb696547488c/01_Data%20Science%20%26%20Data%20Analysis/1.%20Data%20Manipulation%20%26%20EDA/Stock%20Data%20Visualization%20and%20Exploration)**
+<img align="left" width="250" height="150" src="https://raw.githubusercontent.com/Kaiqiang-Chen/images/main/portfolio/20240814133515.png"> **[中国上市公司的分布与疫情下发展状况的探究 [12/2023] [R, Python]](https://github.com/Kaiqiang-Chen/Portfolio/tree/6bf1ae485af8bb6748b903f69a48cb696547488c/01_Data%20Science%20%26%20Data%20Analysis/1.%20Data%20Manipulation%20%26%20EDA/Stock%20Data%20Visualization%20and%20Exploration)**
 
 出于对疫情背景下不同企业发展情况的好奇，从上市公司数据着手，利用Tushare API接口获取财务数据，通过柱状图、玫瑰图、散点图、箱线图等多种类型图表探究上市公司分布特征以及疫情对不同行业的影响，通过PCA、SOM、K-Means等非监督机器学习方法进行降维与聚类。
 
@@ -86,7 +86,7 @@ A hybrid-filtering personalized news articles recommendation system which can su
 
 ### 1. 贝恩实习期间参与零售行业报告
 
-<img align="left" width="250" height="150" src="https://raw.githubusercontent.com/Kaiqiang-Chen/images/main/portfolio/20240814131754.png"> **[贝恩联合中国连锁经营协会：2023中国生鲜快消品零售业态发展趋势研究报告 [07/2023 - 10/2023]](https://www.bain.cn/news_info.php?id=1751)**
+<img align="left" width="250" height="150" src="https://raw.githubusercontent.com/Kaiqiang-Chen/images/main/portfolio/20240814133802.png"> **[贝恩联合中国连锁经营协会：2023中国生鲜快消品零售业态发展趋势研究报告 [07/2023 - 10/2023]](https://www.bain.cn/news_info.php?id=1751)**
 
 共参与制作 ~10 页报告：研究国内 8 大零售业态现状，并参考西方硬折扣店发展历程判断未来趋势；提出商超门店集中度与利润率正相关的假设，通过年报等搜集数据，并进行回归分析验证假设，建议零售商在核心区域高密度布局发挥规模优势等。
 
