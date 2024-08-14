@@ -80,14 +80,14 @@ A hybrid-filtering personalized news articles recommendation system which can su
 
 ### 1. 贝恩实习期间参与零售行业报告
 
-<img align="left" width="250" height="150" src="https://ck-obsidian.oss-cn-hangzhou.aliyuncs.com/20240812165158.png"> **[贝恩联合中国连锁经营协会：2023中国生鲜快消品零售业态发展趋势研究报告,07/2023 - 10/2023](https://www.bain.cn/news_info.php?id=1751)**
+<img align="left" width="250" height="150" src="https://ck-obsidian.oss-cn-hangzhou.aliyuncs.com/20240812165158.png"> **[贝恩联合中国连锁经营协会：2023中国生鲜快消品零售业态发展趋势研究报告 [07/2023 - 10/2023]](https://www.bain.cn/news_info.php?id=1751)**
 
 中国积木玩具行业的领先企业正面临来自全球巨头和本地新兴玩家的激烈竞争。我们选取邦宝作为客户公司，为其制定收入增长战略。我们通过全方位的行业研究得出行业规模增速及驱动力、竞争格局、KSF和发展趋势；通过问卷调查获得一手消费者数据，聚类不同客群，提炼消费人群画像和KPC；最终设计战略，对标头部品牌制定全渠道战略和门店选址方案，并结合案例研究设计新产品和爆款营销策略等。
 
 
 ### 2. 2023 奥玮咨询商赛报告（队长）
 
-<img align="left" width="250" height="150" src="https://ck-obsidian.oss-cn-hangzhou.aliyuncs.com/20240812165158.png"> **[Five-Year Growth Strategy for Banbao | Team OWesome, 04/2023](https://github.com/archd3sai/Predicting-GDP-of-India)**
+<img align="left" width="250" height="150" src="https://ck-obsidian.oss-cn-hangzhou.aliyuncs.com/20240812165158.png"> **[Five-Year Growth Strategy for Banbao | Team OWesome [04/2023]](https://github.com/archd3sai/Predicting-GDP-of-India)**
 
 中国积木玩具行业的领先企业正面临来自全球巨头和本地新兴玩家的激烈竞争。我们选取邦宝作为客户公司，为其制定收入增长战略。我们通过全方位的行业研究得出行业规模增速及驱动力、竞争格局、KSF和发展趋势；通过问卷调查获得一手消费者数据，聚类不同客群，提炼消费人群画像和KPC；最终设计战略，对标头部品牌制定全渠道战略和门店选址方案，并结合案例研究设计新产品和爆款营销策略等。
 
